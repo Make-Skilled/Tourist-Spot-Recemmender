@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="relative">
+    <!-- Hero Section -->
+    <div class="bg-gradient-to-r from-blue-600 to-blue-800 text-white rounded-3xl p-12 mb-16">
+        <div class="max-w-3xl mx-auto text-center">
+            <h1 class="text-5xl font-bold mb-6">Discover Your Next Adventure</h1>
+            <p class="text-xl mb-8">Find the perfect tourist spots tailored to your preferences. Get personalized recommendations and explore the world's most beautiful destinations.</p>
+            <div class="space-x-4">
+                <a href="{{ url_for('register') }}" class="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition duration-300">Get Started</a>
+                <a href="{{ url_for('login') }}" class="border-2 border-white text-white px-8 py-3 rounded-full font-semibold hover:bg-white hover:text-blue-600 transition duration-300">Sign In</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Features Section -->
+    <div class="grid md:grid-cols-3 gap-8 mb-16">
+        <div class="bg-white p-8 rounded-xl shadow-lg">
+            <div class="text-blue-600 text-4xl mb-4">🌍</div>
+            <h3 class="text-xl font-semibold mb-2">Global Destinations</h3>
+            <p class="text-gray-600">Explore tourist spots from around the world, from hidden gems to popular attractions.</p>
+        </div>
+        <div class="bg-white p-8 rounded-xl shadow-lg">
+            <div class="text-blue-600 text-4xl mb-4">🎯</div>
+            <h3 class="text-xl font-semibold mb-2">Personalized Recommendations</h3>
+            <p class="text-gray-600">Get tailored suggestions based on your preferences and travel history.</p>
+        </div>
+        <div class="bg-white p-8 rounded-xl shadow-lg">
+            <div class="text-blue-600 text-4xl mb-4">⭐</div>
+            <h3 class="text-xl font-semibold mb-2">Verified Reviews</h3>
+            <p class="text-gray-600">Read authentic reviews from travelers who have visited these destinations.</p>
+        </div>
+    </div>
+
+    <!-- How It Works Section -->
+    <div class="text-center mb-16">
+        <h2 class="text-3xl font-bold mb-12">How It Works</h2>
+        <div class="grid md:grid-cols-4 gap-8">
+            <div class="p-6">
+                <div class="text-2xl font-bold text-blue-600 mb-2">1</div>
+                <h3 class="font-semibold mb-2">Create Account</h3>
+                <p class="text-gray-600">Sign up for free and create your profile</p>
+            </div>
+            <div class="p-6">
+                <div class="text-2xl font-bold text-blue-600 mb-2">2</div>
+                <h3 class="font-semibold mb-2">Set Preferences</h3>
+                <p class="text-gray-600">Tell us what you're looking for</p>
+            </div>
+            <div class="p-6">
+                <div class="text-2xl font-bold text-blue-600 mb-2">3</div>
+                <h3 class="font-semibold mb-2">Get Recommendations</h3>
+                <p class="text-gray-600">Receive personalized spot suggestions</p>
+            </div>
+            <div class="p-6">
+                <div class="text-2xl font-bold text-blue-600 mb-2">4</div>
+                <h3 class="font-semibold mb-2">Start Exploring</h3>
+                <p class="text-gray-600">Plan your next adventure</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %} 

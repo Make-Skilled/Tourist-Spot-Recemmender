@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <h1>Welcome, {{ username }}!</h1>
+    
+    <!-- Recommendation Form -->
+    <div class="card mb-4">
+        <div class="card-header">
+            <h2 class="h4 mb-0">Get Recommendations</h2>
+        </div>
+        <div class="card-body">
+            <form method="POST" action="{{ url_for('dashboard') }}">
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="category" class="form-label">Preferred Category</label>
+                        <select class="form-select" id="category" name="category">
+                            <option value="">Select Category</option>
+                            <option value="Historical">Historical</option>
+                            <option value="Beach">Beach</option>
+                            <option value="Mountain">Mountain</option>
+                            <option value="Adventure">Adventure</option>
+                            <option value="Wildlife">Wildlife</option>
+                            <option value="Religious">Religious</option>
+                            <option value="City">City</option>
+                        </select>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="location" class="form-label">Location (State)</label>
+                        <input type="text" class="form-control" id="location" name="location" placeholder="Enter state name">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 mb-3">
+                        <label for="min_rating" class="form-label">Minimum Rating</label>
+                        <input type="number" class="form-control" id="min_rating" name="min_rating" min="0" max="5" step="0.1" value="4.0">
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <label for="num_recommendations" class="form-label">Number of Recommendations</label>
+                        <input type="number" class="form-control" id="num_recommendations" name="num_recommendations" min="1" max="10" value="5">
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <label for="preferences" class="form-label">Additional Preferences</label>
+                        <input type="text" class="form-control" id="preferences" name="preferences" placeholder="e.g., family-friendly, budget">
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary">Get Recommendations</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Error Message -->
+    {% if error_message %}
+    <div class="alert alert-danger" role="alert">
+        {{ error_message }}
+    </div>
+    {% endif %}
+
+    <!-- Recommendations -->
+    {% if recommendations %}
+    <div class="row">
+        {% for spot in recommendations %}
+        <div class="col-md-6 mb-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h3 class="card-title">{{ spot.Place }}, {{ spot.State }}</h3>
+                    <h4 class="card-subtitle mb-2 text-muted">{{ spot.Category }}</h4>
+                    <div class="mb-3">
+                        <span class="badge bg-primary">Rating: {{ spot.Rating }}/5</span>
+                        <span class="badge bg-info">Best Time: {{ spot['Best Time to Visit'] }}</span>
+                        <span class="badge bg-success">Budget: {{ spot['Budget Level'] }}</span>
+                    </div>
+                    <p class="card-text">
+                        <strong>Activities:</strong> {{ spot.Activities }}<br>
+                        <strong>Trip Duration:</strong> {{ spot['Trip Duration (days)'] }} days<br>
+                        <strong>Hotels Nearby:</strong> {{ spot['Hotels Nearby'] }}<br>
+                        <strong>Travel Vehicles:</strong> {{ spot['Travel Vehicles Available'] }}<br>
+                        <strong>Family Friendly:</strong> {{ spot['Family Friendly'] }}
+                    </p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% elif request.method == 'POST' %}
+    <div class="alert alert-info" role="alert">
+        No recommendations found matching your criteria. Please try different search parameters.
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

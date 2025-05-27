@@ -1,0 +1,202 @@
+State,Place,Category,Hotels Nearby,Travel Vehicles Available,Rating,Best Time to Visit,Family Friendly,Activities,Budget Level,Trip Duration (days)
+Maharashtra,Mumbai,City,Many,Metro, Bus, Taxi,4.5,October to February,Yes,City Tour, Shopping, Nightlife,Moderate,3
+Karnataka,Bangalore,City,Many,Metro, Bus, Taxi,4.3,October to March,Yes,Technology Parks, Shopping, Nightlife,Moderate,2
+Goa,Panaji,Beach,Many,Car, Bus, Taxi,4.7,November to February,Yes,Beach Activities, Water Sports, Nightlife,Moderate,4
+Rajasthan,Jaipur,Historical,Many,Car, Bus, Taxi,4.6,October to March,Yes,Palace Tour, Shopping, Cultural Shows,Moderate,3
+Himachal Pradesh,Manali,Mountain,Many,Car, Bus,4.8,March to June,Yes,Trekking, Skiing, Adventure Sports,Moderate,5
+Kerala,Kochi,Beach,Many,Car, Bus, Boat,4.4,October to February,Yes,Backwaters, Beach Activities, Cultural Shows,Moderate,4
+Tamil Nadu,Chennai,City,Many,Metro, Bus, Taxi,4.2,November to February,Yes,Beach, Temples, Shopping,Moderate,3
+Uttar Pradesh,Agra,Historical,Many,Car, Bus, Taxi,4.9,October to March,Yes,Taj Mahal, Forts, Shopping,Moderate,2
+Gujarat,Ahmedabad,City,Many,Car, Bus, Taxi,4.1,October to March,Yes,Heritage Walk, Shopping, Food Tour,Moderate,2
+West Bengal,Kolkata,City,Many,Metro, Bus, Taxi,4.3,October to March,Yes,Heritage Tour, Shopping, Food Tour,Moderate,3
+Karnataka,Mysore,Historical,Many,Car, Bus,4.7,October to March,Yes,Palace Tour, Gardens, Cultural Shows,Moderate,2
+Kerala,Munnar,Mountain,Many,Car, Bus,4.6,September to May,Yes,Tea Gardens, Trekking, Wildlife,Moderate,3
+Rajasthan,Udaipur,Historical,Many,Car, Bus, Boat,4.8,October to March,Yes,Lake Palace, City Palace, Cultural Shows,Moderate,3
+Himachal Pradesh,Shimla,Mountain,Many,Car, Bus, Toy Train,4.5,March to June,Yes,Mall Road, Ridge Road, Adventure Sports,Moderate,4
+Tamil Nadu,Ooty,Mountain,Many,Car, Bus, Toy Train,4.4,April to June,Yes,Botanical Gardens, Tea Gardens, Boating,Moderate,3
+Kerala,Alleppey,Beach,Many,Car, Bus, Boat,4.7,October to February,Yes,Backwaters, Houseboat Stay, Beach Activities,Moderate,3
+Goa,Calangute,Beach,Many,Car, Bus, Taxi,4.6,November to February,Yes,Beach Activities, Water Sports, Nightlife,Moderate,4
+Maharashtra,Lonavala,Mountain,Many,Car, Bus,4.3,October to May,Yes,Caves, Waterfalls, Trekking,Moderate,2
+Karnataka,Hampi,Historical,Many,Car, Bus,4.8,October to February,Yes,Ancient Ruins, Temples, Cycling,Moderate,3
+Rajasthan,Jodhpur,Historical,Many,Car, Bus,4.5,October to March,Yes,Mehrangarh Fort, Blue City, Shopping,Moderate,2
+Uttar Pradesh,Varanasi,Religious,Many,Car, Bus, Boat,4.7,October to March,Yes,Ghats, Temples, Cultural Shows,Moderate,3
+Tamil Nadu,Madurai,Religious,Many,Car, Bus,4.6,October to March,Yes,Temples, Shopping, Cultural Shows,Moderate,2
+Kerala,Thekkady,Wildlife,Many,Car, Bus,4.5,October to February,Yes,Wildlife Safari, Spice Plantations, Trekking,Moderate,3
+Karnataka,Coorg,Mountain,Many,Car, Bus,4.4,October to March,Yes,Coffee Plantations, Waterfalls, Trekking,Moderate,3
+Goa,Anjuna,Beach,Many,Car, Bus, Taxi,4.3,November to February,Yes,Beach Activities, Flea Market, Nightlife,Moderate,3
+Himachal Pradesh,Dharamshala,Mountain,Many,Car, Bus,4.6,March to June,Yes,Tibetan Culture, Trekking, Temples,Moderate,4
+Rajasthan,Jaisalmer,Historical,Many,Car, Bus, Camel,4.7,October to March,Yes,Desert Safari, Fort, Cultural Shows,Moderate,3
+Kerala,Wayanad,Wildlife,Many,Car, Bus,4.5,October to May,Yes,Wildlife Safari, Waterfalls, Trekking,Moderate,4
+Tamil Nadu,Kodaikanal,Mountain,Many,Car, Bus,4.4,April to June,Yes,Lake, Gardens, Trekking,Moderate,3
+Maharashtra,Mahabaleshwar,Mountain,Many,Car, Bus,4.3,October to June,Yes,Strawberry Farms, Valley View, Boating,Moderate,3
+Karnataka,Gokarna,Beach,Many,Car, Bus,4.6,October to February,Yes,Beach Activities, Temples, Trekking,Moderate,4
+Goa,Palolem,Beach,Many,Car, Bus, Boat,4.5,November to February,Yes,Beach Activities, Dolphin Watching, Water Sports,Moderate,3
+Rajasthan,Bikaner,Historical,Many,Car, Bus, Camel,4.4,October to March,Yes,Fort, Camel Safari, Cultural Shows,Moderate,2
+Kerala,Kumarakom,Beach,Many,Car, Bus, Boat,4.7,October to February,Yes,Backwaters, Bird Watching, Houseboat Stay,Moderate,3
+Himachal Pradesh,Kasol,Mountain,Many,Car, Bus,4.5,March to June,Yes,Trekking, Parvati Valley, Adventure Sports,Moderate,4
+Tamil Nadu,Kanyakumari,Beach,Many,Car, Bus,4.6,October to February,Yes,Sunrise View, Temples, Beach Activities,Moderate,2
+Karnataka,Badami,Historical,Many,Car, Bus,4.4,October to March,Yes,Cave Temples, Fort, Architecture,Moderate,2
+Goa,Dudhsagar,Adventure,Many,Car, Bus,4.7,October to May,Yes,Waterfall, Trekking, Wildlife,Moderate,3
+Rajasthan,Pushkar,Religious,Many,Car, Bus, Camel,4.5,October to March,Yes,Temple, Camel Fair, Cultural Shows,Moderate,2
+Kerala,Athirappilly,Adventure,Many,Car, Bus,4.6,June to January,Yes,Waterfall, Trekking, Wildlife,Moderate,2
+Maharashtra,Ajanta Caves,Historical,Many,Car, Bus,4.8,October to March,Yes,Cave Temples, Architecture, Photography,Moderate,2
+Karnataka,Murudeshwar,Religious,Many,Car, Bus,4.5,October to February,Yes,Temple, Beach, Water Sports,Moderate,2
+Goa,Spice Plantations,Adventure,Many,Car, Bus,4.4,October to May,Yes,Plantation Tour, Elephant Bath, Traditional Lunch,Moderate,2
+Himachal Pradesh,Spiti Valley,Adventure,Many,Car, Bus,4.7,May to October,Yes,Mountain Biking, Trekking, Photography,Moderate,7
+Kerala,Marari Beach,Beach,Many,Car, Bus,4.6,October to February,Yes,Beach Activities, Fishing, Cultural Shows,Moderate,3
+Tamil Nadu,Rameshwaram,Religious,Many,Car, Bus,4.5,October to March,Yes,Temple, Beach, Cultural Shows,Moderate,2
+Rajasthan,Ranthambore,Wildlife,Many,Car, Bus,4.8,October to June,Yes,Wildlife Safari, Fort, Bird Watching,Moderate,3
+Karnataka,Nagarhole,Wildlife,Many,Car, Bus,4.7,October to May,Yes,Wildlife Safari, Bird Watching, Nature Walk,Moderate,3
+Goa,Divar Island,Adventure,Many,Car, Bus, Boat,4.4,October to May,Yes,Cycling, Heritage Walk, Photography,Moderate,2
+Kerala,Silent Valley,Wildlife,Many,Car, Bus,4.6,October to February,Yes,Wildlife Safari, Trekking, Bird Watching,Moderate,3
+Maharashtra,Tadoba,Wildlife,Many,Car, Bus,4.7,October to June,Yes,Wildlife Safari, Bird Watching, Nature Walk,Moderate,3
+Tamil Nadu,Yercaud,Mountain,Many,Car, Bus,4.5,October to June,Yes,Lake, Gardens, Trekking,Moderate,3
+Rajasthan,Bundi,Historical,Many,Car, Bus,4.4,October to March,Yes,Fort, Stepwell, Cultural Shows,Moderate,2
+Karnataka,Srirangapatna,Historical,Many,Car, Bus,4.5,October to March,Yes,Fort, Temple, Museum,Moderate,2
+Goa,Chorao Island,Wildlife,Many,Car, Bus, Boat,4.3,October to May,Yes,Bird Watching, Mangrove Tour, Photography,Moderate,2
+Kerala,Bekal,Beach,Many,Car, Bus,4.6,October to February,Yes,Fort, Beach, Backwaters,Moderate,3
+Himachal Pradesh,Khajjiar,Mountain,Many,Car, Bus,4.7,March to June,Yes,Lake, Trekking, Adventure Sports,Moderate,3
+Tamil Nadu,Hogenakkal,Adventure,Many,Car, Bus, Boat,4.5,October to February,Yes,Waterfall, Coracle Ride, Trekking,Moderate,2
+Rajasthan,Alwar,Historical,Many,Car, Bus,4.4,October to March,Yes,Fort, Palace, Wildlife,Moderate,2
+Karnataka,Sakleshpur,Mountain,Many,Car, Bus,4.6,October to March,Yes,Coffee Plantations, Trekking, Adventure Sports,Moderate,3
+Goa,Netravali,Adventure,Many,Car, Bus,4.5,October to May,Yes,Waterfall, Wildlife, Trekking,Moderate,3
+Kerala,Idukki,Wildlife,Many,Car, Bus,4.7,October to February,Yes,Wildlife Safari, Dam, Trekking,Moderate,3
+Maharashtra,Kaas Plateau,Adventure,Many,Car, Bus,4.6,August to October,Yes,Valley of Flowers, Photography, Trekking,Moderate,2
+Tamil Nadu,Kolli Hills,Mountain,Many,Car, Bus,4.4,October to March,Yes,Waterfall, Trekking, Adventure Sports,Moderate,3
+Rajasthan,Shekhawati,Historical,Many,Car, Bus,4.5,October to March,Yes,Havelis, Frescoes, Cultural Shows,Moderate,3
+Karnataka,Chikmagalur,Mountain,Many,Car, Bus,4.7,October to March,Yes,Coffee Plantations, Trekking, Adventure Sports,Moderate,4
+Goa,Cotigao,Wildlife,Many,Car, Bus,4.4,October to May,Yes,Wildlife Safari, Trekking, Bird Watching,Moderate,2
+Kerala,Parambikulam,Wildlife,Many,Car, Bus,4.6,October to February,Yes,Wildlife Safari, Trekking, Bird Watching,Moderate,3
+Himachal Pradesh,Tirthan Valley,Adventure,Many,Car, Bus,4.7,March to June,Yes,Trekking, Fishing, Adventure Sports,Moderate,4
+Tamil Nadu,Kalrayan Hills,Mountain,Many,Car, Bus,4.5,October to March,Yes,Trekking, Waterfall, Adventure Sports,Moderate,3
+Rajasthan,Kumbhalgarh,Historical,Many,Car, Bus,4.6,October to March,Yes,Fort, Wildlife, Cultural Shows,Moderate,2
+Karnataka,Kudremukh,Mountain,Many,Car, Bus,4.7,October to February,Yes,Trekking, Wildlife, Adventure Sports,Moderate,4
+Goa,Bhagwan Mahavir,Wildlife,Many,Car, Bus,4.5,October to May,Yes,Wildlife Safari, Trekking, Bird Watching,Moderate,2
+Kerala,Periyar,Wildlife,Many,Car, Bus, Boat,4.8,October to February,Yes,Wildlife Safari, Boat Ride, Spice Plantations,Moderate,3
+Maharashtra,Sindhudurg,Beach,Many,Car, Bus, Boat,4.6,October to March,Yes,Fort, Beach, Water Sports,Moderate,3
+Tamil Nadu,Yelagiri,Mountain,Many,Car, Bus,4.5,October to March,Yes,Lake, Gardens, Adventure Sports,Moderate,2
+Rajasthan,Mount Abu,Mountain,Many,Car, Bus,4.7,March to June,Yes,Lake, Gardens, Adventure Sports,Moderate,3
+Karnataka,Agumbe,Mountain,Many,Car, Bus,4.6,October to January,Yes,Sunset View, Trekking, Wildlife,Moderate,3
+Goa,Netravali,Adventure,Many,Car, Bus,4.5,October to May,Yes,Waterfall, Wildlife, Trekking,Moderate,3
+Kerala,Peermade,Mountain,Many,Car, Bus,4.4,October to February,Yes,Tea Gardens, Trekking, Adventure Sports,Moderate,3
+Himachal Pradesh,Chitkul,Adventure,Many,Car, Bus,4.7,May to October,Yes,Trekking, Photography, Adventure Sports,Moderate,4
+Tamil Nadu,Valparai,Mountain,Many,Car, Bus,4.6,October to March,Yes,Tea Gardens, Wildlife, Trekking,Moderate,3
+Rajasthan,Ranakpur,Religious,Many,Car, Bus,4.5,October to March,Yes,Temple, Architecture, Cultural Shows,Moderate,2
+Karnataka,Kemmanagundi,Mountain,Many,Car, Bus,4.7,October to March,Yes,Gardens, Waterfall, Trekking,Moderate,3
+Goa,Dudhsagar,Adventure,Many,Car, Bus,4.6,October to May,Yes,Waterfall, Trekking, Wildlife,Moderate,3
+Kerala,Munnar,Adventure,Many,Car, Bus,4.8,September to May,Yes,Tea Gardens, Trekking, Adventure Sports,Moderate,4
+Uttarakhand,Rishikesh,Adventure,Many,Car, Bus,4.7,March to June,Yes,River Rafting, Yoga, Adventure Sports,Moderate,4
+Sikkim,Gangtok,Mountain,Many,Car, Bus,4.6,March to June,Yes,Buddhist Monasteries, Trekking, Shopping,Moderate,4
+Arunachal Pradesh,Tawang,Adventure,Many,Car, Bus,4.5,March to June,Yes,Buddhist Monastery, Trekking, Photography,Moderate,5
+Meghalaya,Shillong,Mountain,Many,Car, Bus,4.4,October to May,Yes,Waterfalls, Caves, Adventure Sports,Moderate,4
+Nagaland,Kohima,Adventure,Many,Car, Bus,4.3,October to May,Yes,Tribal Culture, Trekking, Wildlife,Moderate,4
+Manipur,Imphal,Adventure,Many,Car, Bus,4.2,October to March,Yes,Lake, Temples, Cultural Shows,Moderate,3
+Mizoram,Aizawl,Mountain,Many,Car, Bus,4.1,October to March,Yes,Churches, Trekking, Cultural Shows,Moderate,3
+Tripura,Agartala,Historical,Many,Car, Bus,4.0,October to March,Yes,Palace, Temples, Cultural Shows,Moderate,2
+Assam,Guwahati,City,Many,Car, Bus,4.5,October to March,Yes,Temple, River Cruise, Shopping,Moderate,3
+Bihar,Patna,Historical,Many,Car, Bus,4.2,October to March,Yes,Temples, Museums, Cultural Shows,Moderate,2
+Jharkhand,Ranchi,Mountain,Many,Car, Bus,4.3,October to March,Yes,Waterfalls, Temples, Adventure Sports,Moderate,3
+Odisha,Puri,Religious,Many,Car, Bus,4.6,October to March,Yes,Temple, Beach, Cultural Shows,Moderate,3
+Chhattisgarh,Raipur,City,Many,Car, Bus,4.1,October to March,Yes,Temples, Shopping, Cultural Shows,Moderate,2
+Telangana,Hyderabad,City,Many,Metro, Bus, Taxi,4.4,October to March,Yes,Fort, Shopping, Food Tour,Moderate,3
+Andhra Pradesh,Vishakhapatnam,Beach,Many,Car, Bus,4.5,October to March,Yes,Beach, Temples, Water Sports,Moderate,3
+Puducherry,Pondicherry,Beach,Many,Car, Bus,4.6,October to March,Yes,Beach, French Architecture, Shopping,Moderate,3
+Andaman and Nicobar,Port Blair,Beach,Many,Car, Bus, Boat,4.7,October to May,Yes,Beach, Water Sports, Historical Sites,Moderate,5
+Lakshadweep,Kavaratti,Beach,Many,Car, Bus, Boat,4.8,October to May,Yes,Beach, Water Sports, Snorkeling,Moderate,4
+Delhi,New Delhi,City,Many,Metro, Bus, Taxi,4.3,October to March,Yes,Historical Monuments, Shopping, Food Tour,Moderate,3
+Chandigarh,Chandigarh,City,Many,Car, Bus,4.2,October to March,Yes,Gardens, Architecture, Shopping,Moderate,2
+Uttarakhand,Mussoorie,Mountain,Many,Car, Bus,4.5,March to June,Yes,Mall Road, Waterfalls, Adventure Sports,Moderate,3
+Uttarakhand,Nainital,Mountain,Many,Car, Bus,4.4,March to June,Yes,Lake, Gardens, Adventure Sports,Moderate,3
+Uttarakhand,Valley of Flowers,Adventure,Many,Car, Bus,4.7,July to September,Yes,Trekking, Photography, Wildlife,Moderate,5
+Uttarakhand,Kedarnath,Religious,Many,Car, Bus,4.6,May to June,Yes,Temple, Trekking, Photography,Moderate,4
+Uttarakhand,Badrinath,Religious,Many,Car, Bus,4.5,May to June,Yes,Temple, Trekking, Photography,Moderate,4
+Uttarakhand,Hemkund Sahib,Religious,Many,Car, Bus,4.4,June to October,Yes,Temple, Trekking, Photography,Moderate,4
+Uttarakhand,Auli,Mountain,Many,Car, Bus,4.7,December to February,Yes,Skiing, Trekking, Adventure Sports,Moderate,4
+Uttarakhand,Joshimath,Mountain,Many,Car, Bus,4.3,March to June,Yes,Trekking, Temples, Adventure Sports,Moderate,3
+Uttarakhand,Chopta,Mountain,Many,Car, Bus,4.6,March to June,Yes,Trekking, Photography, Adventure Sports,Moderate,3
+Uttarakhand,Dehradun,City,Many,Car, Bus,4.2,October to March,Yes,Forest Research Institute, Temples, Shopping,Moderate,2
+Sikkim,Lachung,Mountain,Many,Car, Bus,4.7,March to June,Yes,Valley, Waterfalls, Adventure Sports,Moderate,4
+Sikkim,Pelling,Mountain,Many,Car, Bus,4.5,March to June,Yes,Monastery, Waterfalls, Trekking,Moderate,3
+Sikkim,Nathula Pass,Adventure,Many,Car, Bus,4.6,March to June,Yes,Mountain Pass, Photography, Adventure Sports,Moderate,4
+Sikkim,Yumthang Valley,Adventure,Many,Car, Bus,4.4,March to June,Yes,Valley, Hot Springs, Photography,Moderate,4
+Sikkim,Ravangla,Mountain,Many,Car, Bus,4.3,March to June,Yes,Monastery, Gardens, Trekking,Moderate,3
+Arunachal Pradesh,Bomdila,Mountain,Many,Car, Bus,4.5,March to June,Yes,Monastery, Trekking, Photography,Moderate,4
+Arunachal Pradesh,Ziro,Adventure,Many,Car, Bus,4.4,March to June,Yes,Tribal Culture, Trekking, Photography,Moderate,4
+Arunachal Pradesh,Dirang,Mountain,Many,Car, Bus,4.3,March to June,Yes,Hot Springs, Monastery, Trekking,Moderate,3
+Arunachal Pradesh,Itanagar,City,Many,Car, Bus,4.2,October to March,Yes,Monastery, Museum, Cultural Shows,Moderate,2
+Arunachal Pradesh,Pasighat,Adventure,Many,Car, Bus,4.1,October to March,Yes,River Rafting, Trekking, Wildlife,Moderate,3
+Meghalaya,Cherrapunji,Mountain,Many,Car, Bus,4.6,October to May,Yes,Waterfalls, Caves, Trekking,Moderate,4
+Meghalaya,Dawki,Adventure,Many,Car, Bus,4.5,October to May,Yes,Crystal Clear Water, Boating, Photography,Moderate,3
+Meghalaya,Mawlynnong,Adventure,Many,Car, Bus,4.4,October to May,Yes,Cleanest Village, Living Root Bridge, Trekking,Moderate,3
+Meghalaya,Nongriat,Adventure,Many,Car, Bus,4.3,October to May,Yes,Living Root Bridge, Waterfalls, Trekking,Moderate,4
+Meghalaya,Mawphlang,Adventure,Many,Car, Bus,4.2,October to May,Yes,Sacred Forest, Trekking, Photography,Moderate,3
+Nagaland,Dzukou Valley,Adventure,Many,Car, Bus,4.7,October to May,Yes,Valley of Flowers, Trekking, Photography,Moderate,4
+Nagaland,Khonoma,Adventure,Many,Car, Bus,4.6,October to May,Yes,Green Village, Trekking, Cultural Shows,Moderate,3
+Nagaland,Mokokchung,Adventure,Many,Car, Bus,4.5,October to May,Yes,Tribal Culture, Trekking, Photography,Moderate,3
+Nagaland,Mon,Adventure,Many,Car, Bus,4.4,October to May,Yes,Headhunters Village, Trekking, Cultural Shows,Moderate,4
+Nagaland,Wokha,Adventure,Many,Car, Bus,4.3,October to May,Yes,Tribal Culture, Trekking, Photography,Moderate,3
+Manipur,Loktak Lake,Adventure,Many,Car, Bus,4.6,October to March,Yes,Floating Islands, Boating, Photography,Moderate,3
+Manipur,Ukhrul,Adventure,Many,Car, Bus,4.5,October to March,Yes,Valley, Trekking, Photography,Moderate,3
+Manipur,Moreh,Adventure,Many,Car, Bus,4.4,October to March,Yes,Border Town, Shopping, Cultural Shows,Moderate,2
+Manipur,Churachandpur,Adventure,Many,Car, Bus,4.3,October to March,Yes,Tribal Culture, Trekking, Photography,Moderate,3
+Manipur,Thoubal,Adventure,Many,Car, Bus,4.2,October to March,Yes,Lake, Temples, Cultural Shows,Moderate,2
+Mizoram,Reiek,Adventure,Many,Car, Bus,4.7,October to March,Yes,Mountain, Trekking, Photography,Moderate,3
+Mizoram,Phawngpui,Adventure,Many,Car, Bus,4.6,October to March,Yes,Blue Mountain, Trekking, Photography,Moderate,4
+Mizoram,Tam Dil,Adventure,Many,Car, Bus,4.5,October to March,Yes,Lake, Boating, Photography,Moderate,2
+Mizoram,Saiha,Adventure,Many,Car, Bus,4.4,October to March,Yes,Lake, Trekking, Photography,Moderate,3
+Mizoram,Champhai,Adventure,Many,Car, Bus,4.3,October to March,Yes,Border Town, Trekking, Photography,Moderate,3
+Tripura,Udaipur,Historical,Many,Car, Bus,4.6,October to March,Yes,Temple, Lake, Cultural Shows,Moderate,2
+Tripura,Agartala,Historical,Many,Car, Bus,4.5,October to March,Yes,Palace, Temples, Cultural Shows,Moderate,2
+Tripura,Unakoti,Historical,Many,Car, Bus,4.4,October to March,Yes,Rock Carvings, Temples, Photography,Moderate,2
+Tripura,Neermahal,Historical,Many,Car, Bus,4.3,October to March,Yes,Water Palace, Boating, Photography,Moderate,2
+Tripura,Jampui Hills,Mountain,Many,Car, Bus,4.2,October to March,Yes,Orange Garden, Trekking, Photography,Moderate,3
+Assam,Kaziranga,Wildlife,Many,Car, Bus,4.8,November to April,Yes,Wildlife Safari, Bird Watching, Elephant Safari,Moderate,3
+Assam,Manas,Wildlife,Many,Car, Bus,4.7,November to April,Yes,Wildlife Safari, Bird Watching, Elephant Safari,Moderate,3
+Assam,Majuli,Adventure,Many,Car, Bus, Boat,4.6,October to March,Yes,River Island, Cultural Shows, Photography,Moderate,3
+Assam,Haflong,Mountain,Many,Car, Bus,4.5,October to March,Yes,Lake, Trekking, Photography,Moderate,3
+Assam,Dibrugarh,City,Many,Car, Bus,4.4,October to March,Yes,Tea Gardens, River Cruise, Cultural Shows,Moderate,2
+Bihar,Bodh Gaya,Religious,Many,Car, Bus,4.7,October to March,Yes,Buddhist Temple, Meditation, Cultural Shows,Moderate,2
+Bihar,Nalanda,Historical,Many,Car, Bus,4.6,October to March,Yes,Ancient University, Museum, Photography,Moderate,2
+Bihar,Rajgir,Historical,Many,Car, Bus,4.5,October to March,Yes,Ancient City, Ropeway, Temples,Moderate,2
+Bihar,Vaishali,Historical,Many,Car, Bus,4.4,October to March,Yes,Ancient City, Temples, Museum,Moderate,2
+Bihar,Munger,Historical,Many,Car, Bus,4.3,October to March,Yes,Fort, Temples, Yoga,Moderate,2
+Jharkhand,Netarhat,Mountain,Many,Car, Bus,4.7,October to March,Yes,Sunset Point, Trekking, Photography,Moderate,3
+Jharkhand,Hazaribagh,Wildlife,Many,Car, Bus,4.6,October to March,Yes,Wildlife Sanctuary, Temples, Trekking,Moderate,3
+Jharkhand,Betla,Wildlife,Many,Car, Bus,4.5,October to March,Yes,Wildlife Safari, Fort, Trekking,Moderate,3
+Jharkhand,Deoghar,Religious,Many,Car, Bus,4.4,October to March,Yes,Temple, Waterfalls, Cultural Shows,Moderate,2
+Jharkhand,Ranchi,City,Many,Car, Bus,4.3,October to March,Yes,Waterfalls, Temples, Adventure Sports,Moderate,2
+Odisha,Konark,Historical,Many,Car, Bus,4.8,October to March,Yes,Sun Temple, Beach, Cultural Shows,Moderate,2
+Odisha,Bhubaneswar,Historical,Many,Car, Bus,4.7,October to March,Yes,Temples, Museums, Cultural Shows,Moderate,2
+Odisha,Cuttack,Historical,Many,Car, Bus,4.6,October to March,Yes,Fort, Temples, Cultural Shows,Moderate,2
+Odisha,Chilika Lake,Wildlife,Many,Car, Bus, Boat,4.5,October to March,Yes,Lake, Bird Watching, Dolphin Watching,Moderate,3
+Odisha,Gopalpur,Beach,Many,Car, Bus,4.4,October to March,Yes,Beach, Water Sports, Cultural Shows,Moderate,3
+Chhattisgarh,Bastar,Adventure,Many,Car, Bus,4.7,October to March,Yes,Tribal Culture, Waterfalls, Trekking,Moderate,4
+Chhattisgarh,Tirathgarh,Adventure,Many,Car, Bus,4.6,October to March,Yes,Waterfall, Trekking, Photography,Moderate,3
+Chhattisgarh,Chitrakote,Adventure,Many,Car, Bus,4.5,October to March,Yes,Waterfall, Trekking, Photography,Moderate,3
+Chhattisgarh,Barnawapara,Wildlife,Many,Car, Bus,4.4,October to March,Yes,Wildlife Safari, Bird Watching, Trekking,Moderate,3
+Chhattisgarh,Raipur,City,Many,Car, Bus,4.3,October to March,Yes,Temples, Shopping, Cultural Shows,Moderate,2
+Telangana,Warangal,Historical,Many,Car, Bus,4.7,October to March,Yes,Fort, Temples, Lake,Moderate,2
+Telangana,Nizamabad,Historical,Many,Car, Bus,4.6,October to March,Yes,Fort, Temples, Cultural Shows,Moderate,2
+Telangana,Karimnagar,Historical,Many,Car, Bus,4.5,October to March,Yes,Fort, Temples, Lake,Moderate,2
+Telangana,Adilabad,Adventure,Many,Car, Bus,4.4,October to March,Yes,Waterfalls, Wildlife, Trekking,Moderate,3
+Telangana,Hyderabad,City,Many,Metro, Bus, Taxi,4.3,October to March,Yes,Fort, Shopping, Food Tour,Moderate,3
+Andhra Pradesh,Tirupati,Religious,Many,Car, Bus,4.8,October to March,Yes,Temple, Hills, Cultural Shows,Moderate,2
+Andhra Pradesh,Amaravati,Historical,Many,Car, Bus,4.7,October to March,Yes,Buddhist Stupa, Museum, Cultural Shows,Moderate,2
+Andhra Pradesh,Vijayawada,Historical,Many,Car, Bus,4.6,October to March,Yes,Temples, Caves, Cultural Shows,Moderate,2
+Andhra Pradesh,Kurnool,Historical,Many,Car, Bus,4.5,October to March,Yes,Caves, Fort, Temples,Moderate,2
+Andhra Pradesh,Visakhapatnam,Beach,Many,Car, Bus,4.4,October to March,Yes,Beach, Temples, Water Sports,Moderate,3
+Puducherry,Auroville,Adventure,Many,Car, Bus,4.7,October to March,Yes,Meditation, Beach, Cultural Shows,Moderate,3
+Puducherry,Mahe,Beach,Many,Car, Bus,4.6,October to March,Yes,Beach, French Architecture, Water Sports,Moderate,2
+Puducherry,Yanam,Beach,Many,Car, Bus,4.5,October to March,Yes,Beach, French Architecture, Cultural Shows,Moderate,2
+Puducherry,Karaikal,Beach,Many,Car, Bus,4.4,October to March,Yes,Beach, Temples, Water Sports,Moderate,2
+Puducherry,Pondicherry,Beach,Many,Car, Bus,4.3,October to March,Yes,Beach, French Architecture, Shopping,Moderate,3
+Andaman and Nicobar,Havelock Island,Beach,Many,Car, Bus, Boat,4.8,October to May,Yes,Beach, Water Sports, Scuba Diving,Moderate,4
+Andaman and Nicobar,Neil Island,Beach,Many,Car, Bus, Boat,4.7,October to May,Yes,Beach, Water Sports, Snorkeling,Moderate,3
+Andaman and Nicobar,Baratang Island,Adventure,Many,Car, Bus, Boat,4.6,October to May,Yes,Limestone Caves, Mud Volcano, Trekking,Moderate,3
+Andaman and Nicobar,Ross Island,Historical,Many,Car, Bus, Boat,4.5,October to May,Yes,Historical Ruins, Photography, Wildlife,Moderate,2
+Andaman and Nicobar,North Bay Island,Beach,Many,Car, Bus, Boat,4.4,October to May,Yes,Beach, Water Sports, Snorkeling,Moderate,2
+Lakshadweep,Agatti Island,Beach,Many,Car, Bus, Boat,4.8,October to May,Yes,Beach, Water Sports, Scuba Diving,Moderate,4
+Lakshadweep,Kadmat Island,Beach,Many,Car, Bus, Boat,4.7,October to May,Yes,Beach, Water Sports, Snorkeling,Moderate,3
+Lakshadweep,Bangaram Island,Beach,Many,Car, Bus, Boat,4.6,October to May,Yes,Beach, Water Sports, Scuba Diving,Moderate,4
+Lakshadweep,Minicoy Island,Beach,Many,Car, Bus, Boat,4.5,October to May,Yes,Beach, Water Sports, Cultural Shows,Moderate,3
+Lakshadweep,Kalpeni Island,Beach,Many,Car, Bus, Boat,4.4,October to May,Yes,Beach, Water Sports, Snorkeling,Moderate,3

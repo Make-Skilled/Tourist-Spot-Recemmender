@@ -1,0 +1,202 @@
+State,Place,Category,Hotels Nearby,Travel Vehicles Available,Rating,Best Time to Visit,Family Friendly,Activities,Budget Level,Trip Duration (days)
+metro, Bus, taxi,4.5,october to february,0.0,city tour, shopping, nightlife,moderate,3.0
+metro, Bus, taxi,4.3,october to march,0.0,technology parks, shopping, nightlife,moderate,2.0
+car, Bus, taxi,4.7,november to february,0.0,beach activities, water sports, nightlife,moderate,4.0
+car, Bus, taxi,4.6,october to march,0.0,palace tour, shopping, cultural shows,moderate,3.0
+car, Bus,4.8,march to june,yes,0.0, skiing, adventure sports,moderate,5,0.0
+car, Bus, boat,4.4,october to february,0.0,backwaters, beach activities, cultural shows,moderate,4.0
+metro, Bus, taxi,4.2,november to february,0.0,beach, temples, shopping,moderate,3.0
+car, Bus, taxi,4.9,october to march,0.0,taj mahal, forts, shopping,moderate,2.0
+car, Bus, taxi,4.1,october to march,0.0,heritage walk, shopping, food tour,moderate,2.0
+metro, Bus, taxi,4.3,october to march,0.0,heritage tour, shopping, food tour,moderate,3.0
+car, Bus,4.7,october to march,yes,0.0, gardens, cultural shows,moderate,2,0.0
+car, Bus,4.6,september to may,yes,0.0, trekking, wildlife,moderate,3,0.0
+car, Bus, boat,4.8,october to march,0.0,lake palace, city palace, cultural shows,moderate,3.0
+car, Bus, toy train,4.5,march to june,0.0,mall road, ridge road, adventure sports,moderate,4.0
+car, Bus, toy train,4.4,april to june,0.0,botanical gardens, tea gardens, boating,moderate,3.0
+car, Bus, boat,4.7,october to february,0.0,backwaters, houseboat stay, beach activities,moderate,3.0
+car, Bus, taxi,4.6,november to february,0.0,beach activities, water sports, nightlife,moderate,4.0
+car, Bus,4.3,october to may,yes,0.0, waterfalls, trekking,moderate,2,0.0
+car, Bus,4.8,october to february,yes,0.0, temples, cycling,moderate,3,0.0
+car, Bus,4.5,october to march,yes,0.0, blue city, shopping,moderate,2,0.0
+car, Bus, boat,4.7,october to march,0.0,ghats, temples, cultural shows,moderate,3.0
+car, Bus,4.6,october to march,yes,0.0, shopping, cultural shows,moderate,2,0.0
+car, Bus,4.5,october to february,yes,0.0, spice plantations, trekking,moderate,3,0.0
+car, Bus,4.4,october to march,yes,0.0, waterfalls, trekking,moderate,3,0.0
+car, Bus, taxi,4.3,november to february,0.0,beach activities, flea market, nightlife,moderate,3.0
+car, Bus,4.6,march to june,yes,0.0, trekking, temples,moderate,4,0.0
+car, Bus, camel,4.7,october to march,0.0,desert safari, fort, cultural shows,moderate,3.0
+car, Bus,4.5,october to may,yes,0.0, waterfalls, trekking,moderate,4,0.0
+car, Bus,4.4,april to june,yes,0.0, gardens, trekking,moderate,3,0.0
+car, Bus,4.3,october to june,yes,0.0, valley view, boating,moderate,3,0.0
+car, Bus,4.6,october to february,yes,0.0, temples, trekking,moderate,4,0.0
+car, Bus, boat,4.5,november to february,0.0,beach activities, dolphin watching, water sports,moderate,3.0
+car, Bus, camel,4.4,october to march,0.0,fort, camel safari, cultural shows,moderate,2.0
+car, Bus, boat,4.7,october to february,0.0,backwaters, bird watching, houseboat stay,moderate,3.0
+car, Bus,4.5,march to june,yes,0.0, parvati valley, adventure sports,moderate,4,0.0
+car, Bus,4.6,october to february,yes,0.0, temples, beach activities,moderate,2,0.0
+car, Bus,4.4,october to march,yes,0.0, fort, architecture,moderate,2,0.0
+car, Bus,4.7,october to may,yes,0.0, trekking, wildlife,moderate,3,0.0
+car, Bus, camel,4.5,october to march,0.0,temple, camel fair, cultural shows,moderate,2.0
+car, Bus,4.6,june to january,yes,0.0, trekking, wildlife,moderate,2,0.0
+car, Bus,4.8,october to march,yes,0.0, architecture, photography,moderate,2,0.0
+car, Bus,4.5,october to february,yes,0.0, beach, water sports,moderate,2,0.0
+car, Bus,4.4,october to may,yes,0.0, elephant bath, traditional lunch,moderate,2,0.0
+car, Bus,4.7,may to october,yes,0.0, trekking, photography,moderate,7,0.0
+car, Bus,4.6,october to february,yes,0.0, fishing, cultural shows,moderate,3,0.0
+car, Bus,4.5,october to march,yes,0.0, beach, cultural shows,moderate,2,0.0
+car, Bus,4.8,october to june,yes,0.0, fort, bird watching,moderate,3,0.0
+car, Bus,4.7,october to may,yes,0.0, bird watching, nature walk,moderate,3,0.0
+car, Bus, boat,4.4,october to may,0.0,cycling, heritage walk, photography,moderate,2.0
+car, Bus,4.6,october to february,yes,0.0, trekking, bird watching,moderate,3,0.0
+car, Bus,4.7,october to june,yes,0.0, bird watching, nature walk,moderate,3,0.0
+car, Bus,4.5,october to june,yes,0.0, gardens, trekking,moderate,3,0.0
+car, Bus,4.4,october to march,yes,0.0, stepwell, cultural shows,moderate,2,0.0
+car, Bus,4.5,october to march,yes,0.0, temple, museum,moderate,2,0.0
+car, Bus, boat,4.3,october to may,0.0,bird watching, mangrove tour, photography,moderate,2.0
+car, Bus,4.6,october to february,yes,0.0, beach, backwaters,moderate,3,0.0
+car, Bus,4.7,march to june,yes,0.0, trekking, adventure sports,moderate,3,0.0
+car, Bus, boat,4.5,october to february,0.0,waterfall, coracle ride, trekking,moderate,2.0
+car, Bus,4.4,october to march,yes,0.0, palace, wildlife,moderate,2,0.0
+car, Bus,4.6,october to march,yes,0.0, trekking, adventure sports,moderate,3,0.0
+car, Bus,4.5,october to may,yes,0.0, wildlife, trekking,moderate,3,0.0
+car, Bus,4.7,october to february,yes,0.0, dam, trekking,moderate,3,0.0
+car, Bus,4.6,august to october,yes,0.0, photography, trekking,moderate,2,0.0
+car, Bus,4.4,october to march,yes,0.0, trekking, adventure sports,moderate,3,0.0
+car, Bus,4.5,october to march,yes,0.0, frescoes, cultural shows,moderate,3,0.0
+car, Bus,4.7,october to march,yes,0.0, trekking, adventure sports,moderate,4,0.0
+car, Bus,4.4,october to may,yes,0.0, trekking, bird watching,moderate,2,0.0
+car, Bus,4.6,october to february,yes,0.0, trekking, bird watching,moderate,3,0.0
+car, Bus,4.7,march to june,yes,0.0, fishing, adventure sports,moderate,4,0.0
+car, Bus,4.5,october to march,yes,0.0, waterfall, adventure sports,moderate,3,0.0
+car, Bus,4.6,october to march,yes,0.0, wildlife, cultural shows,moderate,2,0.0
+car, Bus,4.7,october to february,yes,0.0, wildlife, adventure sports,moderate,4,0.0
+car, Bus,4.5,october to may,yes,0.0, trekking, bird watching,moderate,2,0.0
+car, Bus, boat,4.8,october to february,0.0,wildlife safari, boat ride, spice plantations,moderate,3.0
+car, Bus, boat,4.6,october to march,0.0,fort, beach, water sports,moderate,3.0
+car, Bus,4.5,october to march,yes,0.0, gardens, adventure sports,moderate,2,0.0
+car, Bus,4.7,march to june,yes,0.0, gardens, adventure sports,moderate,3,0.0
+car, Bus,4.6,october to january,yes,0.0, trekking, wildlife,moderate,3,0.0
+car, Bus,4.5,october to may,yes,0.0, wildlife, trekking,moderate,3,0.0
+car, Bus,4.4,october to february,yes,0.0, trekking, adventure sports,moderate,3,0.0
+car, Bus,4.7,may to october,yes,0.0, photography, adventure sports,moderate,4,0.0
+car, Bus,4.6,october to march,yes,0.0, wildlife, trekking,moderate,3,0.0
+car, Bus,4.5,october to march,yes,0.0, architecture, cultural shows,moderate,2,0.0
+car, Bus,4.7,october to march,yes,0.0, waterfall, trekking,moderate,3,0.0
+car, Bus,4.6,october to may,yes,0.0, trekking, wildlife,moderate,3,0.0
+car, Bus,4.8,september to may,yes,0.0, trekking, adventure sports,moderate,4,0.0
+car, Bus,4.7,march to june,yes,0.0, yoga, adventure sports,moderate,4,0.0
+car, Bus,4.6,march to june,yes,0.0, trekking, shopping,moderate,4,0.0
+car, Bus,4.5,march to june,yes,0.0, trekking, photography,moderate,5,0.0
+car, Bus,4.4,october to may,yes,0.0, caves, adventure sports,moderate,4,0.0
+car, Bus,4.3,october to may,yes,0.0, trekking, wildlife,moderate,4,0.0
+car, Bus,4.2,october to march,yes,0.0, temples, cultural shows,moderate,3,0.0
+car, Bus,4.1,october to march,yes,0.0, trekking, cultural shows,moderate,3,0.0
+car, Bus,4.0,october to march,yes,0.0, temples, cultural shows,moderate,2,0.0
+car, Bus,4.5,october to march,yes,0.0, river cruise, shopping,moderate,3,0.0
+car, Bus,4.2,october to march,yes,0.0, museums, cultural shows,moderate,2,0.0
+car, Bus,4.3,october to march,yes,0.0, temples, adventure sports,moderate,3,0.0
+car, Bus,4.6,october to march,yes,0.0, beach, cultural shows,moderate,3,0.0
+car, Bus,4.1,october to march,yes,0.0, shopping, cultural shows,moderate,2,0.0
+metro, Bus, taxi,4.4,october to march,0.0,fort, shopping, food tour,moderate,3.0
+car, Bus,4.5,october to march,yes,0.0, temples, water sports,moderate,3,0.0
+car, Bus,4.6,october to march,yes,0.0, french architecture, shopping,moderate,3,0.0
+car, Bus, boat,4.7,october to may,0.0,beach, water sports, historical sites,moderate,5.0
+car, Bus, boat,4.8,october to may,0.0,beach, water sports, snorkeling,moderate,4.0
+metro, Bus, taxi,4.3,october to march,0.0,historical monuments, shopping, food tour,moderate,3.0
+car, Bus,4.2,october to march,yes,0.0, architecture, shopping,moderate,2,0.0
+car, Bus,4.5,march to june,yes,0.0, waterfalls, adventure sports,moderate,3,0.0
+car, Bus,4.4,march to june,yes,0.0, gardens, adventure sports,moderate,3,0.0
+car, Bus,4.7,july to september,yes,0.0, photography, wildlife,moderate,5,0.0
+car, Bus,4.6,may to june,yes,0.0, trekking, photography,moderate,4,0.0
+car, Bus,4.5,may to june,yes,0.0, trekking, photography,moderate,4,0.0
+car, Bus,4.4,june to october,yes,0.0, trekking, photography,moderate,4,0.0
+car, Bus,4.7,december to february,yes,0.0, trekking, adventure sports,moderate,4,0.0
+car, Bus,4.3,march to june,yes,0.0, temples, adventure sports,moderate,3,0.0
+car, Bus,4.6,march to june,yes,0.0, photography, adventure sports,moderate,3,0.0
+car, Bus,4.2,october to march,yes,0.0, temples, shopping,moderate,2,0.0
+car, Bus,4.7,march to june,yes,0.0, waterfalls, adventure sports,moderate,4,0.0
+car, Bus,4.5,march to june,yes,0.0, waterfalls, trekking,moderate,3,0.0
+car, Bus,4.6,march to june,yes,0.0, photography, adventure sports,moderate,4,0.0
+car, Bus,4.4,march to june,yes,0.0, hot springs, photography,moderate,4,0.0
+car, Bus,4.3,march to june,yes,0.0, gardens, trekking,moderate,3,0.0
+car, Bus,4.5,march to june,yes,0.0, trekking, photography,moderate,4,0.0
+car, Bus,4.4,march to june,yes,0.0, trekking, photography,moderate,4,0.0
+car, Bus,4.3,march to june,yes,0.0, monastery, trekking,moderate,3,0.0
+car, Bus,4.2,october to march,yes,0.0, museum, cultural shows,moderate,2,0.0
+car, Bus,4.1,october to march,yes,0.0, trekking, wildlife,moderate,3,0.0
+car, Bus,4.6,october to may,yes,0.0, caves, trekking,moderate,4,0.0
+car, Bus,4.5,october to may,yes,0.0, boating, photography,moderate,3,0.0
+car, Bus,4.4,october to may,yes,0.0, living root bridge, trekking,moderate,3,0.0
+car, Bus,4.3,october to may,yes,0.0, waterfalls, trekking,moderate,4,0.0
+car, Bus,4.2,october to may,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.7,october to may,yes,0.0, trekking, photography,moderate,4,0.0
+car, Bus,4.6,october to may,yes,0.0, trekking, cultural shows,moderate,3,0.0
+car, Bus,4.5,october to may,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.4,october to may,yes,0.0, trekking, cultural shows,moderate,4,0.0
+car, Bus,4.3,october to may,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.6,october to march,yes,0.0, boating, photography,moderate,3,0.0
+car, Bus,4.5,october to march,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.4,october to march,yes,0.0, shopping, cultural shows,moderate,2,0.0
+car, Bus,4.3,october to march,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.2,october to march,yes,0.0, temples, cultural shows,moderate,2,0.0
+car, Bus,4.7,october to march,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.6,october to march,yes,0.0, trekking, photography,moderate,4,0.0
+car, Bus,4.5,october to march,yes,0.0, boating, photography,moderate,2,0.0
+car, Bus,4.4,october to march,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.3,october to march,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.6,october to march,yes,0.0, lake, cultural shows,moderate,2,0.0
+car, Bus,4.5,october to march,yes,0.0, temples, cultural shows,moderate,2,0.0
+car, Bus,4.4,october to march,yes,0.0, temples, photography,moderate,2,0.0
+car, Bus,4.3,october to march,yes,0.0, boating, photography,moderate,2,0.0
+car, Bus,4.2,october to march,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.8,november to april,yes,0.0, bird watching, elephant safari,moderate,3,0.0
+car, Bus,4.7,november to april,yes,0.0, bird watching, elephant safari,moderate,3,0.0
+car, Bus, boat,4.6,october to march,0.0,river island, cultural shows, photography,moderate,3.0
+car, Bus,4.5,october to march,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.4,october to march,yes,0.0, river cruise, cultural shows,moderate,2,0.0
+car, Bus,4.7,october to march,yes,0.0, meditation, cultural shows,moderate,2,0.0
+car, Bus,4.6,october to march,yes,0.0, museum, photography,moderate,2,0.0
+car, Bus,4.5,october to march,yes,0.0, ropeway, temples,moderate,2,0.0
+car, Bus,4.4,october to march,yes,0.0, temples, museum,moderate,2,0.0
+car, Bus,4.3,october to march,yes,0.0, temples, yoga,moderate,2,0.0
+car, Bus,4.7,october to march,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.6,october to march,yes,0.0, temples, trekking,moderate,3,0.0
+car, Bus,4.5,october to march,yes,0.0, fort, trekking,moderate,3,0.0
+car, Bus,4.4,october to march,yes,0.0, waterfalls, cultural shows,moderate,2,0.0
+car, Bus,4.3,october to march,yes,0.0, temples, adventure sports,moderate,2,0.0
+car, Bus,4.8,october to march,yes,0.0, beach, cultural shows,moderate,2,0.0
+car, Bus,4.7,october to march,yes,0.0, museums, cultural shows,moderate,2,0.0
+car, Bus,4.6,october to march,yes,0.0, temples, cultural shows,moderate,2,0.0
+car, Bus, boat,4.5,october to march,0.0,lake, bird watching, dolphin watching,moderate,3.0
+car, Bus,4.4,october to march,yes,0.0, water sports, cultural shows,moderate,3,0.0
+car, Bus,4.7,october to march,yes,0.0, waterfalls, trekking,moderate,4,0.0
+car, Bus,4.6,october to march,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.5,october to march,yes,0.0, trekking, photography,moderate,3,0.0
+car, Bus,4.4,october to march,yes,0.0, bird watching, trekking,moderate,3,0.0
+car, Bus,4.3,october to march,yes,0.0, shopping, cultural shows,moderate,2,0.0
+car, Bus,4.7,october to march,yes,0.0, temples, lake,moderate,2,0.0
+car, Bus,4.6,october to march,yes,0.0, temples, cultural shows,moderate,2,0.0
+car, Bus,4.5,october to march,yes,0.0, temples, lake,moderate,2,0.0
+car, Bus,4.4,october to march,yes,0.0, wildlife, trekking,moderate,3,0.0
+metro, Bus, taxi,4.3,october to march,0.0,fort, shopping, food tour,moderate,3.0
+car, Bus,4.8,october to march,yes,0.0, hills, cultural shows,moderate,2,0.0
+car, Bus,4.7,october to march,yes,0.0, museum, cultural shows,moderate,2,0.0
+car, Bus,4.6,october to march,yes,0.0, caves, cultural shows,moderate,2,0.0
+car, Bus,4.5,october to march,yes,0.0, fort, temples,moderate,2,0.0
+car, Bus,4.4,october to march,yes,0.0, temples, water sports,moderate,3,0.0
+car, Bus,4.7,october to march,yes,0.0, beach, cultural shows,moderate,3,0.0
+car, Bus,4.6,october to march,yes,0.0, french architecture, water sports,moderate,2,0.0
+car, Bus,4.5,october to march,yes,0.0, french architecture, cultural shows,moderate,2,0.0
+car, Bus,4.4,october to march,yes,0.0, temples, water sports,moderate,2,0.0
+car, Bus,4.3,october to march,yes,0.0, french architecture, shopping,moderate,3,0.0
+car, Bus, boat,4.8,october to may,0.0,beach, water sports, scuba diving,moderate,4.0
+car, Bus, boat,4.7,october to may,0.0,beach, water sports, snorkeling,moderate,3.0
+car, Bus, boat,4.6,october to may,0.0,limestone caves, mud volcano, trekking,moderate,3.0
+car, Bus, boat,4.5,october to may,0.0,historical ruins, photography, wildlife,moderate,2.0
+car, Bus, boat,4.4,october to may,0.0,beach, water sports, snorkeling,moderate,2.0
+car, Bus, boat,4.8,october to may,0.0,beach, water sports, scuba diving,moderate,4.0
+car, Bus, boat,4.7,october to may,0.0,beach, water sports, snorkeling,moderate,3.0
+car, Bus, boat,4.6,october to may,0.0,beach, water sports, scuba diving,moderate,4.0
+car, Bus, boat,4.5,october to may,0.0,beach, water sports, cultural shows,moderate,3.0
+car, Bus, boat,4.4,october to may,0.0,beach, water sports, snorkeling,moderate,3.0
