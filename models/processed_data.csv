@@ -1,202 +1,176 @@
 State,Place,Category,Hotels Nearby,Travel Vehicles Available,Rating,Best Time to Visit,Family Friendly,Activities,Budget Level,Trip Duration (days)
-metro, Bus, taxi,4.5,october to february,0.0,city tour, shopping, nightlife,moderate,3.0
-metro, Bus, taxi,4.3,october to march,0.0,technology parks, shopping, nightlife,moderate,2.0
-car, Bus, taxi,4.7,november to february,0.0,beach activities, water sports, nightlife,moderate,4.0
-car, Bus, taxi,4.6,october to march,0.0,palace tour, shopping, cultural shows,moderate,3.0
-car, Bus,4.8,march to june,yes,0.0, skiing, adventure sports,moderate,5,0.0
-car, Bus, boat,4.4,october to february,0.0,backwaters, beach activities, cultural shows,moderate,4.0
-metro, Bus, taxi,4.2,november to february,0.0,beach, temples, shopping,moderate,3.0
-car, Bus, taxi,4.9,october to march,0.0,taj mahal, forts, shopping,moderate,2.0
-car, Bus, taxi,4.1,october to march,0.0,heritage walk, shopping, food tour,moderate,2.0
-metro, Bus, taxi,4.3,october to march,0.0,heritage tour, shopping, food tour,moderate,3.0
-car, Bus,4.7,october to march,yes,0.0, gardens, cultural shows,moderate,2,0.0
-car, Bus,4.6,september to may,yes,0.0, trekking, wildlife,moderate,3,0.0
-car, Bus, boat,4.8,october to march,0.0,lake palace, city palace, cultural shows,moderate,3.0
-car, Bus, toy train,4.5,march to june,0.0,mall road, ridge road, adventure sports,moderate,4.0
-car, Bus, toy train,4.4,april to june,0.0,botanical gardens, tea gardens, boating,moderate,3.0
-car, Bus, boat,4.7,october to february,0.0,backwaters, houseboat stay, beach activities,moderate,3.0
-car, Bus, taxi,4.6,november to february,0.0,beach activities, water sports, nightlife,moderate,4.0
-car, Bus,4.3,october to may,yes,0.0, waterfalls, trekking,moderate,2,0.0
-car, Bus,4.8,october to february,yes,0.0, temples, cycling,moderate,3,0.0
-car, Bus,4.5,october to march,yes,0.0, blue city, shopping,moderate,2,0.0
-car, Bus, boat,4.7,october to march,0.0,ghats, temples, cultural shows,moderate,3.0
-car, Bus,4.6,october to march,yes,0.0, shopping, cultural shows,moderate,2,0.0
-car, Bus,4.5,october to february,yes,0.0, spice plantations, trekking,moderate,3,0.0
-car, Bus,4.4,october to march,yes,0.0, waterfalls, trekking,moderate,3,0.0
-car, Bus, taxi,4.3,november to february,0.0,beach activities, flea market, nightlife,moderate,3.0
-car, Bus,4.6,march to june,yes,0.0, trekking, temples,moderate,4,0.0
-car, Bus, camel,4.7,october to march,0.0,desert safari, fort, cultural shows,moderate,3.0
-car, Bus,4.5,october to may,yes,0.0, waterfalls, trekking,moderate,4,0.0
-car, Bus,4.4,april to june,yes,0.0, gardens, trekking,moderate,3,0.0
-car, Bus,4.3,october to june,yes,0.0, valley view, boating,moderate,3,0.0
-car, Bus,4.6,october to february,yes,0.0, temples, trekking,moderate,4,0.0
-car, Bus, boat,4.5,november to february,0.0,beach activities, dolphin watching, water sports,moderate,3.0
-car, Bus, camel,4.4,october to march,0.0,fort, camel safari, cultural shows,moderate,2.0
-car, Bus, boat,4.7,october to february,0.0,backwaters, bird watching, houseboat stay,moderate,3.0
-car, Bus,4.5,march to june,yes,0.0, parvati valley, adventure sports,moderate,4,0.0
-car, Bus,4.6,october to february,yes,0.0, temples, beach activities,moderate,2,0.0
-car, Bus,4.4,october to march,yes,0.0, fort, architecture,moderate,2,0.0
-car, Bus,4.7,october to may,yes,0.0, trekking, wildlife,moderate,3,0.0
-car, Bus, camel,4.5,october to march,0.0,temple, camel fair, cultural shows,moderate,2.0
-car, Bus,4.6,june to january,yes,0.0, trekking, wildlife,moderate,2,0.0
-car, Bus,4.8,october to march,yes,0.0, architecture, photography,moderate,2,0.0
-car, Bus,4.5,october to february,yes,0.0, beach, water sports,moderate,2,0.0
-car, Bus,4.4,october to may,yes,0.0, elephant bath, traditional lunch,moderate,2,0.0
-car, Bus,4.7,may to october,yes,0.0, trekking, photography,moderate,7,0.0
-car, Bus,4.6,october to february,yes,0.0, fishing, cultural shows,moderate,3,0.0
-car, Bus,4.5,october to march,yes,0.0, beach, cultural shows,moderate,2,0.0
-car, Bus,4.8,october to june,yes,0.0, fort, bird watching,moderate,3,0.0
-car, Bus,4.7,october to may,yes,0.0, bird watching, nature walk,moderate,3,0.0
-car, Bus, boat,4.4,october to may,0.0,cycling, heritage walk, photography,moderate,2.0
-car, Bus,4.6,october to february,yes,0.0, trekking, bird watching,moderate,3,0.0
-car, Bus,4.7,october to june,yes,0.0, bird watching, nature walk,moderate,3,0.0
-car, Bus,4.5,october to june,yes,0.0, gardens, trekking,moderate,3,0.0
-car, Bus,4.4,october to march,yes,0.0, stepwell, cultural shows,moderate,2,0.0
-car, Bus,4.5,october to march,yes,0.0, temple, museum,moderate,2,0.0
-car, Bus, boat,4.3,october to may,0.0,bird watching, mangrove tour, photography,moderate,2.0
-car, Bus,4.6,october to february,yes,0.0, beach, backwaters,moderate,3,0.0
-car, Bus,4.7,march to june,yes,0.0, trekking, adventure sports,moderate,3,0.0
-car, Bus, boat,4.5,october to february,0.0,waterfall, coracle ride, trekking,moderate,2.0
-car, Bus,4.4,october to march,yes,0.0, palace, wildlife,moderate,2,0.0
-car, Bus,4.6,october to march,yes,0.0, trekking, adventure sports,moderate,3,0.0
-car, Bus,4.5,october to may,yes,0.0, wildlife, trekking,moderate,3,0.0
-car, Bus,4.7,october to february,yes,0.0, dam, trekking,moderate,3,0.0
-car, Bus,4.6,august to october,yes,0.0, photography, trekking,moderate,2,0.0
-car, Bus,4.4,october to march,yes,0.0, trekking, adventure sports,moderate,3,0.0
-car, Bus,4.5,october to march,yes,0.0, frescoes, cultural shows,moderate,3,0.0
-car, Bus,4.7,october to march,yes,0.0, trekking, adventure sports,moderate,4,0.0
-car, Bus,4.4,october to may,yes,0.0, trekking, bird watching,moderate,2,0.0
-car, Bus,4.6,october to february,yes,0.0, trekking, bird watching,moderate,3,0.0
-car, Bus,4.7,march to june,yes,0.0, fishing, adventure sports,moderate,4,0.0
-car, Bus,4.5,october to march,yes,0.0, waterfall, adventure sports,moderate,3,0.0
-car, Bus,4.6,october to march,yes,0.0, wildlife, cultural shows,moderate,2,0.0
-car, Bus,4.7,october to february,yes,0.0, wildlife, adventure sports,moderate,4,0.0
-car, Bus,4.5,october to may,yes,0.0, trekking, bird watching,moderate,2,0.0
-car, Bus, boat,4.8,october to february,0.0,wildlife safari, boat ride, spice plantations,moderate,3.0
-car, Bus, boat,4.6,october to march,0.0,fort, beach, water sports,moderate,3.0
-car, Bus,4.5,october to march,yes,0.0, gardens, adventure sports,moderate,2,0.0
-car, Bus,4.7,march to june,yes,0.0, gardens, adventure sports,moderate,3,0.0
-car, Bus,4.6,october to january,yes,0.0, trekking, wildlife,moderate,3,0.0
-car, Bus,4.5,october to may,yes,0.0, wildlife, trekking,moderate,3,0.0
-car, Bus,4.4,october to february,yes,0.0, trekking, adventure sports,moderate,3,0.0
-car, Bus,4.7,may to october,yes,0.0, photography, adventure sports,moderate,4,0.0
-car, Bus,4.6,october to march,yes,0.0, wildlife, trekking,moderate,3,0.0
-car, Bus,4.5,october to march,yes,0.0, architecture, cultural shows,moderate,2,0.0
-car, Bus,4.7,october to march,yes,0.0, waterfall, trekking,moderate,3,0.0
-car, Bus,4.6,october to may,yes,0.0, trekking, wildlife,moderate,3,0.0
-car, Bus,4.8,september to may,yes,0.0, trekking, adventure sports,moderate,4,0.0
-car, Bus,4.7,march to june,yes,0.0, yoga, adventure sports,moderate,4,0.0
-car, Bus,4.6,march to june,yes,0.0, trekking, shopping,moderate,4,0.0
-car, Bus,4.5,march to june,yes,0.0, trekking, photography,moderate,5,0.0
-car, Bus,4.4,october to may,yes,0.0, caves, adventure sports,moderate,4,0.0
-car, Bus,4.3,october to may,yes,0.0, trekking, wildlife,moderate,4,0.0
-car, Bus,4.2,october to march,yes,0.0, temples, cultural shows,moderate,3,0.0
-car, Bus,4.1,october to march,yes,0.0, trekking, cultural shows,moderate,3,0.0
-car, Bus,4.0,october to march,yes,0.0, temples, cultural shows,moderate,2,0.0
-car, Bus,4.5,october to march,yes,0.0, river cruise, shopping,moderate,3,0.0
-car, Bus,4.2,october to march,yes,0.0, museums, cultural shows,moderate,2,0.0
-car, Bus,4.3,october to march,yes,0.0, temples, adventure sports,moderate,3,0.0
-car, Bus,4.6,october to march,yes,0.0, beach, cultural shows,moderate,3,0.0
-car, Bus,4.1,october to march,yes,0.0, shopping, cultural shows,moderate,2,0.0
-metro, Bus, taxi,4.4,october to march,0.0,fort, shopping, food tour,moderate,3.0
-car, Bus,4.5,october to march,yes,0.0, temples, water sports,moderate,3,0.0
-car, Bus,4.6,october to march,yes,0.0, french architecture, shopping,moderate,3,0.0
-car, Bus, boat,4.7,october to may,0.0,beach, water sports, historical sites,moderate,5.0
-car, Bus, boat,4.8,october to may,0.0,beach, water sports, snorkeling,moderate,4.0
-metro, Bus, taxi,4.3,october to march,0.0,historical monuments, shopping, food tour,moderate,3.0
-car, Bus,4.2,october to march,yes,0.0, architecture, shopping,moderate,2,0.0
-car, Bus,4.5,march to june,yes,0.0, waterfalls, adventure sports,moderate,3,0.0
-car, Bus,4.4,march to june,yes,0.0, gardens, adventure sports,moderate,3,0.0
-car, Bus,4.7,july to september,yes,0.0, photography, wildlife,moderate,5,0.0
-car, Bus,4.6,may to june,yes,0.0, trekking, photography,moderate,4,0.0
-car, Bus,4.5,may to june,yes,0.0, trekking, photography,moderate,4,0.0
-car, Bus,4.4,june to october,yes,0.0, trekking, photography,moderate,4,0.0
-car, Bus,4.7,december to february,yes,0.0, trekking, adventure sports,moderate,4,0.0
-car, Bus,4.3,march to june,yes,0.0, temples, adventure sports,moderate,3,0.0
-car, Bus,4.6,march to june,yes,0.0, photography, adventure sports,moderate,3,0.0
-car, Bus,4.2,october to march,yes,0.0, temples, shopping,moderate,2,0.0
-car, Bus,4.7,march to june,yes,0.0, waterfalls, adventure sports,moderate,4,0.0
-car, Bus,4.5,march to june,yes,0.0, waterfalls, trekking,moderate,3,0.0
-car, Bus,4.6,march to june,yes,0.0, photography, adventure sports,moderate,4,0.0
-car, Bus,4.4,march to june,yes,0.0, hot springs, photography,moderate,4,0.0
-car, Bus,4.3,march to june,yes,0.0, gardens, trekking,moderate,3,0.0
-car, Bus,4.5,march to june,yes,0.0, trekking, photography,moderate,4,0.0
-car, Bus,4.4,march to june,yes,0.0, trekking, photography,moderate,4,0.0
-car, Bus,4.3,march to june,yes,0.0, monastery, trekking,moderate,3,0.0
-car, Bus,4.2,october to march,yes,0.0, museum, cultural shows,moderate,2,0.0
-car, Bus,4.1,october to march,yes,0.0, trekking, wildlife,moderate,3,0.0
-car, Bus,4.6,october to may,yes,0.0, caves, trekking,moderate,4,0.0
-car, Bus,4.5,october to may,yes,0.0, boating, photography,moderate,3,0.0
-car, Bus,4.4,october to may,yes,0.0, living root bridge, trekking,moderate,3,0.0
-car, Bus,4.3,october to may,yes,0.0, waterfalls, trekking,moderate,4,0.0
-car, Bus,4.2,october to may,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.7,october to may,yes,0.0, trekking, photography,moderate,4,0.0
-car, Bus,4.6,october to may,yes,0.0, trekking, cultural shows,moderate,3,0.0
-car, Bus,4.5,october to may,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.4,october to may,yes,0.0, trekking, cultural shows,moderate,4,0.0
-car, Bus,4.3,october to may,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.6,october to march,yes,0.0, boating, photography,moderate,3,0.0
-car, Bus,4.5,october to march,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.4,october to march,yes,0.0, shopping, cultural shows,moderate,2,0.0
-car, Bus,4.3,october to march,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.2,october to march,yes,0.0, temples, cultural shows,moderate,2,0.0
-car, Bus,4.7,october to march,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.6,october to march,yes,0.0, trekking, photography,moderate,4,0.0
-car, Bus,4.5,october to march,yes,0.0, boating, photography,moderate,2,0.0
-car, Bus,4.4,october to march,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.3,october to march,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.6,october to march,yes,0.0, lake, cultural shows,moderate,2,0.0
-car, Bus,4.5,october to march,yes,0.0, temples, cultural shows,moderate,2,0.0
-car, Bus,4.4,october to march,yes,0.0, temples, photography,moderate,2,0.0
-car, Bus,4.3,october to march,yes,0.0, boating, photography,moderate,2,0.0
-car, Bus,4.2,october to march,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.8,november to april,yes,0.0, bird watching, elephant safari,moderate,3,0.0
-car, Bus,4.7,november to april,yes,0.0, bird watching, elephant safari,moderate,3,0.0
-car, Bus, boat,4.6,october to march,0.0,river island, cultural shows, photography,moderate,3.0
-car, Bus,4.5,october to march,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.4,october to march,yes,0.0, river cruise, cultural shows,moderate,2,0.0
-car, Bus,4.7,october to march,yes,0.0, meditation, cultural shows,moderate,2,0.0
-car, Bus,4.6,october to march,yes,0.0, museum, photography,moderate,2,0.0
-car, Bus,4.5,october to march,yes,0.0, ropeway, temples,moderate,2,0.0
-car, Bus,4.4,october to march,yes,0.0, temples, museum,moderate,2,0.0
-car, Bus,4.3,october to march,yes,0.0, temples, yoga,moderate,2,0.0
-car, Bus,4.7,october to march,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.6,october to march,yes,0.0, temples, trekking,moderate,3,0.0
-car, Bus,4.5,october to march,yes,0.0, fort, trekking,moderate,3,0.0
-car, Bus,4.4,october to march,yes,0.0, waterfalls, cultural shows,moderate,2,0.0
-car, Bus,4.3,october to march,yes,0.0, temples, adventure sports,moderate,2,0.0
-car, Bus,4.8,october to march,yes,0.0, beach, cultural shows,moderate,2,0.0
-car, Bus,4.7,october to march,yes,0.0, museums, cultural shows,moderate,2,0.0
-car, Bus,4.6,october to march,yes,0.0, temples, cultural shows,moderate,2,0.0
-car, Bus, boat,4.5,october to march,0.0,lake, bird watching, dolphin watching,moderate,3.0
-car, Bus,4.4,october to march,yes,0.0, water sports, cultural shows,moderate,3,0.0
-car, Bus,4.7,october to march,yes,0.0, waterfalls, trekking,moderate,4,0.0
-car, Bus,4.6,october to march,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.5,october to march,yes,0.0, trekking, photography,moderate,3,0.0
-car, Bus,4.4,october to march,yes,0.0, bird watching, trekking,moderate,3,0.0
-car, Bus,4.3,october to march,yes,0.0, shopping, cultural shows,moderate,2,0.0
-car, Bus,4.7,october to march,yes,0.0, temples, lake,moderate,2,0.0
-car, Bus,4.6,october to march,yes,0.0, temples, cultural shows,moderate,2,0.0
-car, Bus,4.5,october to march,yes,0.0, temples, lake,moderate,2,0.0
-car, Bus,4.4,october to march,yes,0.0, wildlife, trekking,moderate,3,0.0
-metro, Bus, taxi,4.3,october to march,0.0,fort, shopping, food tour,moderate,3.0
-car, Bus,4.8,october to march,yes,0.0, hills, cultural shows,moderate,2,0.0
-car, Bus,4.7,october to march,yes,0.0, museum, cultural shows,moderate,2,0.0
-car, Bus,4.6,october to march,yes,0.0, caves, cultural shows,moderate,2,0.0
-car, Bus,4.5,october to march,yes,0.0, fort, temples,moderate,2,0.0
-car, Bus,4.4,october to march,yes,0.0, temples, water sports,moderate,3,0.0
-car, Bus,4.7,october to march,yes,0.0, beach, cultural shows,moderate,3,0.0
-car, Bus,4.6,october to march,yes,0.0, french architecture, water sports,moderate,2,0.0
-car, Bus,4.5,october to march,yes,0.0, french architecture, cultural shows,moderate,2,0.0
-car, Bus,4.4,october to march,yes,0.0, temples, water sports,moderate,2,0.0
-car, Bus,4.3,october to march,yes,0.0, french architecture, shopping,moderate,3,0.0
-car, Bus, boat,4.8,october to may,0.0,beach, water sports, scuba diving,moderate,4.0
-car, Bus, boat,4.7,october to may,0.0,beach, water sports, snorkeling,moderate,3.0
-car, Bus, boat,4.6,october to may,0.0,limestone caves, mud volcano, trekking,moderate,3.0
-car, Bus, boat,4.5,october to may,0.0,historical ruins, photography, wildlife,moderate,2.0
-car, Bus, boat,4.4,october to may,0.0,beach, water sports, snorkeling,moderate,2.0
-car, Bus, boat,4.8,october to may,0.0,beach, water sports, scuba diving,moderate,4.0
-car, Bus, boat,4.7,october to may,0.0,beach, water sports, snorkeling,moderate,3.0
-car, Bus, boat,4.6,october to may,0.0,beach, water sports, scuba diving,moderate,4.0
-car, Bus, boat,4.5,october to may,0.0,beach, water sports, cultural shows,moderate,3.0
-car, Bus, boat,4.4,october to may,0.0,beach, water sports, snorkeling,moderate,3.0
+maharashtra,Mumbai,city,many,"metro, bus, taxi",4.5,october to february,yes,"city tour, shopping, nightlife",moderate,3
+karnataka,Bangalore,city,many,"metro, bus, taxi",4.4,october to february,yes,"tech parks, shopping, nightlife",moderate,3
+goa,Panaji,beach,many,"bus, taxi, bike",4.7,november to february,yes,"beach activities, water sports, nightlife",moderate,4
+rajasthan,Jaipur,historical,many,"bus, taxi, auto",4.6,october to march,yes,"palace tours, shopping, cultural shows",moderate,3
+himachal pradesh,Manali,mountain,many,"bus, taxi",4.8,march to june,yes,"trekking, skiing, adventure sports",moderate,5
+kerala,Kochi,beach,many,"bus, taxi, auto",4.7,october to march,yes,"beach activities, backwaters, cultural shows",moderate,4
+tamil nadu,Chennai,city,many,"metro, bus, taxi",4.3,november to february,yes,"beach, temples, shopping",moderate,3
+uttar pradesh,Agra,historical,many,"bus, taxi, auto",4.8,october to march,yes,"taj mahal, forts, shopping",moderate,2
+gujarat,Ahmedabad,city,many,"bus, taxi, auto",4.2,october to march,yes,"heritage walk, shopping, food tour",moderate,3
+west bengal,Kolkata,city,many,"metro, bus, taxi",4.4,october to march,yes,"cultural tours, food, shopping",moderate,3
+karnataka,Mysore,historical,many,"bus, taxi, auto",4.5,october to february,yes,"palace, gardens, zoo",moderate,3
+kerala,Munnar,mountain,many,"bus, taxi",4.7,september to may,yes,"tea gardens, trekking, wildlife",moderate,4
+rajasthan,Udaipur,historical,many,"bus, taxi, auto",4.6,september to march,yes,"lake palace, city palace, boat ride",moderate,3
+himachal pradesh,Shimla,mountain,many,"bus, taxi",4.5,march to june,yes,"mall road, ridge road, toy train",moderate,4
+goa,Calangute,beach,many,"bus, taxi, bike",4.6,november to february,yes,"beach activities, water sports, nightlife",moderate,4
+karnataka,Hampi,historical,many,"bus, taxi, auto",4.7,october to february,yes,"ruins, temples, biking",moderate,3
+tamil nadu,Ooty,mountain,many,"bus, taxi",4.6,april to june,yes,"botanical gardens, tea gardens, toy train",moderate,4
+uttar pradesh,Varanasi,religious,many,"bus, taxi, auto",4.7,october to march,yes,"ghats, temples, boat ride",moderate,3
+gujarat,Surat,city,many,"bus, taxi, auto",4.1,october to march,yes,"shopping, food, diamond market",moderate,2
+west bengal,Darjeeling,mountain,many,"bus, toy train",4.6,march to may,yes,"tea gardens, toy train, sunrise",moderate,4
+kerala,Alleppey,beach,many,"bus, taxi, boat",4.8,october to february,yes,"backwaters, houseboat, beach",moderate,3
+rajasthan,Jodhpur,historical,many,"bus, taxi, auto",4.5,october to march,yes,"mehrangarh fort, blue city, shopping",moderate,3
+himachal pradesh,Dharamshala,mountain,many,"bus, taxi",4.4,march to june,yes,"tibetan culture, trekking, temples",moderate,4
+goa,Anjuna,beach,many,"bus, taxi, bike",4.5,november to february,yes,"beach, flea market, nightlife",moderate,4
+karnataka,Hampi,historical,many,"bus, taxi, auto",4.7,october to february,yes,"ruins, temples, biking",moderate,3
+tamil nadu,Kodaikanal,mountain,many,"bus, taxi",4.5,april to june,yes,"lake, gardens, trekking",moderate,4
+uttar pradesh,Lucknow,city,many,"bus, taxi, auto",4.2,october to march,yes,"food, shopping, heritage",moderate,2
+gujarat,Vadodara,city,many,"bus, taxi, auto",4.0,october to march,yes,"palace, museum, shopping",moderate,2
+west bengal,Sundarbans,wildlife,some,"boat, bus",4.6,october to march,yes,"wildlife safari, boat ride, bird watching",moderate,3
+kerala,Thekkady,wildlife,many,"bus, taxi",4.7,september to may,yes,"wildlife safari, spice plantations, trekking",moderate,3
+rajasthan,Jaisalmer,historical,many,"bus, taxi, camel",4.6,october to march,yes,"desert safari, fort, cultural shows",moderate,3
+himachal pradesh,Kasol,mountain,some,"bus, taxi",4.4,march to june,yes,"trekking, camping, cafes",budget,4
+goa,Palolem,beach,some,"bus, taxi, bike",4.5,november to february,yes,"beach, water sports, yoga",moderate,4
+karnataka,Coorg,mountain,many,"bus, taxi",4.6,october to march,yes,"coffee plantations, trekking, waterfalls",moderate,4
+tamil nadu,Kanyakumari,beach,many,"bus, taxi",4.4,october to march,yes,"sunrise, sunset, temples",moderate,3
+uttar pradesh,Ayodhya,religious,many,"bus, taxi, auto",4.3,october to march,yes,"temples, ghats, cultural shows",moderate,2
+gujarat,Dwarka,religious,many,"bus, taxi",4.4,october to march,yes,"temples, beach, cultural shows",moderate,3
+west bengal,Kalimpong,mountain,some,"bus, taxi",4.3,march to may,yes,"monasteries, gardens, trekking",moderate,3
+kerala,Kumarakom,beach,many,"bus, taxi, boat",4.7,october to february,yes,"backwaters, houseboat, bird watching",moderate,3
+rajasthan,Bikaner,historical,many,"bus, taxi, camel",4.4,october to march,yes,"fort, camel safari, temples",moderate,3
+himachal pradesh,Spiti Valley,mountain,some,"bus, taxi",4.8,may to october,yes,"monasteries, trekking, camping",budget,7
+goa,Morjim,beach,some,"bus, taxi, bike",4.4,november to february,yes,"beach, water sports, bird watching",moderate,4
+karnataka,Gokarna,beach,some,"bus, taxi",4.5,october to march,yes,"beach, temples, trekking",budget,4
+tamil nadu,Rameshwaram,religious,many,"bus, taxi",4.4,october to march,yes,"temples, beach, bridge",moderate,3
+uttar pradesh,Mathura,religious,many,"bus, taxi, auto",4.3,october to march,yes,"temples, ghats, cultural shows",moderate,2
+gujarat,Somnath,religious,many,"bus, taxi",4.4,october to march,yes,"temple, beach, light show",moderate,2
+west bengal,Siliguri,city,many,"bus, taxi",4.1,october to march,yes,"shopping, food, gateway to hills",moderate,2
+kerala,Kovalam,beach,many,"bus, taxi",4.6,october to february,yes,"beach, water sports, ayurveda",moderate,3
+rajasthan,Pushkar,religious,many,"bus, taxi, camel",4.5,october to march,yes,"temple, camel fair, shopping",moderate,3
+himachal pradesh,Bir Billing,adventure,some,"bus, taxi",4.7,march to june,yes,"paragliding, trekking, monasteries",moderate,4
+goa,Arambol,beach,some,"bus, taxi, bike",4.3,november to february,yes,"beach, yoga, flea market",budget,4
+karnataka,Badami,historical,many,"bus, taxi",4.4,october to february,yes,"caves, temples, fort",moderate,3
+tamil nadu,Madurai,religious,many,"bus, taxi, auto",4.5,october to march,yes,"temple, palace, shopping",moderate,3
+uttar pradesh,Vrindavan,religious,many,"bus, taxi, auto",4.4,october to march,yes,"temples, ghats, cultural shows",moderate,2
+gujarat,Junagadh,historical,many,"bus, taxi",4.3,october to march,yes,"fort, temples, wildlife",moderate,3
+west bengal,Shantiniketan,cultural,some,"bus, taxi",4.2,october to march,yes,"university, museums, cultural shows",moderate,2
+kerala,Kochi,beach,many,"bus, taxi, auto",4.7,october to march,yes,"beach activities, backwaters, cultural shows",moderate,4
+rajasthan,Jaipur,historical,many,"bus, taxi, auto",4.6,october to march,yes,"palace tours, shopping, cultural shows",moderate,3
+himachal pradesh,Manali,mountain,many,"bus, taxi",4.8,march to june,yes,"trekking, skiing, adventure sports",moderate,5
+goa,Panaji,beach,many,"bus, taxi, bike",4.7,november to february,yes,"beach activities, water sports, nightlife",moderate,4
+karnataka,Bangalore,city,many,"metro, bus, taxi",4.4,october to february,yes,"tech parks, shopping, nightlife",moderate,3
+tamil nadu,Chennai,city,many,"metro, bus, taxi",4.3,november to february,yes,"beach, temples, shopping",moderate,3
+uttar pradesh,Agra,historical,many,"bus, taxi, auto",4.8,october to march,yes,"taj mahal, forts, shopping",moderate,2
+gujarat,Ahmedabad,city,many,"bus, taxi, auto",4.2,october to march,yes,"heritage walk, shopping, food tour",moderate,3
+west bengal,Kolkata,city,many,"metro, bus, taxi",4.4,october to march,yes,"cultural tours, food, shopping",moderate,3
+kerala,Munnar,mountain,many,"bus, taxi",4.9,september to may,yes,"tea gardens, trekking, wildlife safari",moderate,4
+rajasthan,Udaipur,historical,many,"bus, taxi, auto",4.7,september to march,yes,"lake palace, city palace, boat rides",moderate,3
+himachal pradesh,Shimla,mountain,many,"bus, taxi",4.6,march to june,yes,"mall road, ridge road, toy train",moderate,4
+karnataka,Mysore,historical,many,"bus, taxi, auto",4.5,october to february,yes,"palace, gardens, zoo",moderate,2
+tamil nadu,Kodaikanal,mountain,many,"bus, taxi",4.7,april to june,yes,"boating, trekking, waterfalls",moderate,3
+kerala,Alleppey,beach,many,"bus, taxi, boat",4.8,october to february,yes,"houseboat, backwaters, beach",moderate,3
+rajasthan,Jaisalmer,historical,many,"bus, taxi, camel",4.6,october to march,yes,"desert safari, fort, cultural shows",moderate,3
+himachal pradesh,Dharamshala,mountain,many,"bus, taxi",4.5,march to june,yes,"tibetan culture, trekking, temples",moderate,4
+karnataka,Hampi,historical,many,"bus, taxi, auto",4.7,october to february,yes,"ruins, temples, bouldering",moderate,3
+tamil nadu,Ooty,mountain,many,"bus, taxi, toy train",4.6,april to june,yes,"botanical gardens, tea gardens, boating",moderate,3
+kerala,Varkala,beach,many,"bus, taxi, auto",4.5,october to march,yes,"beach, cliff, yoga",moderate,3
+rajasthan,Jodhpur,historical,many,"bus, taxi, auto",4.4,october to march,yes,"fort, blue city, markets",moderate,2
+himachal pradesh,Kasol,mountain,many,"bus, taxi",4.3,march to june,yes,"trekking, camping, cafes",budget,4
+karnataka,Coorg,mountain,many,"bus, taxi",4.8,october to march,yes,"coffee plantations, waterfalls, trekking",moderate,3
+tamil nadu,Rameshwaram,religious,many,"bus, taxi, auto",4.5,october to april,yes,"temple, beach, bridge",moderate,2
+kerala,Thekkady,wildlife,many,"bus, taxi",4.7,october to february,yes,"wildlife safari, spice plantations, boat ride",moderate,3
+rajasthan,Bikaner,historical,many,"bus, taxi, camel",4.3,october to march,yes,"fort, camel safari, temples",moderate,2
+himachal pradesh,Spiti Valley,mountain,many,"bus, taxi",4.9,may to october,yes,"monasteries, trekking, photography",moderate,7
+karnataka,Gokarna,beach,many,"bus, taxi, auto",4.4,october to february,yes,"beach, temples, trekking",budget,3
+tamil nadu,Kanyakumari,beach,many,"bus, taxi, auto",4.6,october to march,yes,"sunrise, sunset, temples",moderate,2
+kerala,Wayanad,wildlife,many,"bus, taxi",4.8,october to may,yes,"wildlife safari, waterfalls, trekking",moderate,4
+rajasthan,Pushkar,religious,many,"bus, taxi, camel",4.5,october to march,yes,"temple, lake, camel fair",moderate,2
+himachal pradesh,Bir Billing,adventure,many,"bus, taxi",4.7,march to june,yes,"paragliding, trekking, monasteries",moderate,3
+karnataka,Chikmagalur,mountain,many,"bus, taxi",4.6,october to february,yes,"coffee estates, trekking, waterfalls",moderate,3
+tamil nadu,Kumbakonam,religious,many,"bus, taxi, auto",4.4,october to march,yes,"temples, architecture, culture",moderate,2
+kerala,Kumarakom,beach,many,"bus, taxi, boat",4.7,october to february,yes,"backwaters, bird sanctuary, houseboat",moderate,3
+rajasthan,Bundi,historical,many,"bus, taxi, auto",4.3,october to march,yes,"fort, stepwells, lake",budget,2
+himachal pradesh,Khajjiar,mountain,many,"bus, taxi",4.5,march to june,yes,"lake, trekking, photography",moderate,2
+karnataka,Badami,historical,many,"bus, taxi, auto",4.4,october to march,yes,"cave temples, architecture, fort",moderate,2
+tamil nadu,Madurai,religious,many,"bus, taxi, auto",4.6,october to march,yes,"temple, architecture, culture",moderate,2
+kerala,Bekal,beach,many,"bus, taxi, auto",4.5,october to march,yes,"fort, beach, backwaters",moderate,3
+rajasthan,Mount Abu,mountain,many,"bus, taxi",4.4,march to june,yes,"lake, temples, gardens",moderate,3
+himachal pradesh,Palampur,mountain,many,"bus, taxi",4.6,march to june,yes,"tea gardens, trekking, waterfalls",moderate,3
+karnataka,Srirangapatna,historical,many,"bus, taxi, auto",4.3,october to march,yes,"fort, temple, island",moderate,2
+tamil nadu,Thanjavur,historical,many,"bus, taxi, auto",4.5,october to march,yes,"temple, palace, museum",moderate,2
+kerala,Kovalam,beach,many,"bus, taxi, auto",4.7,october to march,yes,"beach, lighthouse, ayurveda",moderate,3
+rajasthan,Chittorgarh,historical,many,"bus, taxi, auto",4.4,october to march,yes,"fort, temples, tower",moderate,2
+himachal pradesh,Kullu,mountain,many,"bus, taxi",4.5,march to june,yes,"valley, river rafting, temples",moderate,3
+karnataka,Murudeshwar,beach,many,"bus, taxi, auto",4.3,october to march,yes,"temple, beach, statue",moderate,2
+tamil nadu,Tiruchirappalli,religious,many,"bus, taxi, auto",4.4,october to march,yes,"temple, rock fort, gardens",moderate,2
+kerala,Marari,beach,many,"bus, taxi, auto",4.6,october to march,yes,"beach, fishing, village life",moderate,3
+rajasthan,Ranakpur,religious,many,"bus, taxi",4.5,october to march,yes,"temple, architecture, nature",moderate,2
+himachal pradesh,Chamba,mountain,many,"bus, taxi",4.4,march to june,yes,"temples, valley, trekking",moderate,3
+karnataka,Sakleshpur,mountain,many,"bus, taxi",4.5,october to february,yes,"coffee estates, trekking, waterfalls",moderate,3
+tamil nadu,Yercaud,mountain,many,"bus, taxi",4.4,october to june,yes,"lake, gardens, viewpoints",moderate,2
+kerala,Athirappilly,wildlife,many,"bus, taxi",4.7,june to january,yes,"waterfalls, wildlife, trekking",moderate,2
+rajasthan,Alwar,historical,many,"bus, taxi, auto",4.3,october to march,yes,"fort, palace, wildlife",moderate,2
+himachal pradesh,Kasauli,mountain,many,"bus, taxi",4.5,march to june,yes,"monkey point, sunset point, trekking",moderate,2
+karnataka,Shravanabelagola,religious,many,"bus, taxi, auto",4.4,october to march,yes,"temple, statue, architecture",moderate,2
+tamil nadu,Kanchipuram,religious,many,"bus, taxi, auto",4.6,october to march,yes,"temples, silk weaving, architecture",moderate,2
+kerala,Poovar,beach,many,"bus, taxi, boat",4.5,october to march,yes,"beach, backwaters, island",moderate,3
+rajasthan,Bharatpur,wildlife,many,"bus, taxi, cycle",4.7,october to march,yes,"bird sanctuary, fort, gardens",moderate,2
+himachal pradesh,Solang Valley,adventure,many,"bus, taxi",4.8,march to june,yes,"skiing, zorbing, paragliding",moderate,3
+karnataka,Bandipur,wildlife,many,"bus, taxi",4.6,october to may,yes,"wildlife safari, nature walk, bird watching",moderate,3
+tamil nadu,Courtallam,adventure,many,"bus, taxi",4.4,june to september,yes,"waterfalls, bathing, nature",moderate,2
+kerala,Periyar,wildlife,many,"bus, taxi, boat",4.7,october to june,yes,"wildlife safari, boat ride, spice plantations",moderate,3
+rajasthan,Deogarh,historical,many,"bus, taxi",4.3,october to march,yes,"fort, temples, lake",moderate,2
+himachal pradesh,Narkanda,mountain,many,"bus, taxi",4.5,march to june,yes,"skiing, trekking, apple orchards",moderate,3
+karnataka,Nandi Hills,mountain,many,"bus, taxi",4.4,october to february,yes,"cycling, sunrise, temples",moderate,1
+tamil nadu,Hogenakkal,adventure,many,"bus, taxi",4.6,july to february,yes,"waterfalls, coracle ride, bathing",moderate,2
+kerala,Kumarakom,beach,many,"bus, taxi, boat",4.7,october to february,yes,"backwaters, bird sanctuary, houseboat",moderate,3
+rajasthan,Ajmer,religious,many,"bus, taxi, auto",4.5,october to march,yes,"dargah, lake, fort",moderate,2
+himachal pradesh,Chitkul,mountain,many,"bus, taxi",4.6,may to october,yes,"village life, trekking, photography",moderate,3
+karnataka,Sakleshpur,mountain,many,"bus, taxi",4.5,october to february,yes,"coffee estates, trekking, waterfalls",moderate,3
+tamil nadu,Kolli Hills,mountain,many,"bus, taxi",4.4,october to march,yes,"viewpoints, waterfalls, trekking",moderate,2
+kerala,Bekal,beach,many,"bus, taxi, auto",4.5,october to march,yes,"fort, beach, backwaters",moderate,3
+rajasthan,Mount Abu,mountain,many,"bus, taxi",4.4,march to june,yes,"lake, temples, gardens",moderate,3
+himachal pradesh,Palampur,mountain,many,"bus, taxi",4.6,march to june,yes,"tea gardens, trekking, waterfalls",moderate,3
+karnataka,Srirangapatna,historical,many,"bus, taxi, auto",4.3,october to march,yes,"fort, temple, island",moderate,2
+tamil nadu,Thanjavur,historical,many,"bus, taxi, auto",4.5,october to march,yes,"temple, palace, museum",moderate,2
+maharashtra,Lonavala,hill station,many,"bus, taxi",4.5,october to may,yes,"caves, waterfalls, trekking",moderate,2
+karnataka,Jog Falls,waterfall,some,"bus, taxi",4.4,july to january,yes,"waterfall viewing, photography, nature walk",moderate,1
+goa,Dudhsagar Falls,waterfall,some,"bus, taxi, train",4.6,june to march,yes,"waterfall, trekking, train ride",moderate,2
+rajasthan,Keoladeo National Park,wildlife,many,"bus, taxi, cycle",4.7,october to march,yes,"bird watching, wildlife safari, cycling",moderate,2
+himachal pradesh,Great Himalayan National Park,wildlife,some,"bus, taxi",4.8,april to june,yes,"wildlife safari, trekking, photography",moderate,4
+kerala,Silent Valley National Park,wildlife,some,"bus, taxi",4.6,december to april,yes,"wildlife safari, trekking, bird watching",moderate,3
+tamil nadu,Guindy National Park,wildlife,many,"bus, taxi",4.3,october to march,yes,"wildlife safari, nature walk, children's park",moderate,1
+uttar pradesh,Dudhwa National Park,wildlife,some,"bus, taxi",4.5,november to june,yes,"wildlife safari, bird watching, nature walk",moderate,3
+gujarat,Gir National Park,wildlife,many,"bus, taxi",4.8,december to march,yes,"lion safari, wildlife safari, nature walk",moderate,3
+west bengal,Gorumara National Park,wildlife,some,"bus, taxi",4.4,october to march,yes,"wildlife safari, bird watching, nature walk",moderate,2
+maharashtra,Ajanta Caves,heritage,many,"bus, taxi",4.7,november to march,yes,"cave exploration, architecture, photography",moderate,2
+karnataka,Pattadakal,heritage,some,"bus, taxi",4.5,october to march,yes,"temple architecture, photography, history",moderate,2
+goa,Old Goa,heritage,many,"bus, taxi",4.4,october to march,yes,"churches, museums, architecture",moderate,1
+rajasthan,Chittorgarh Fort,heritage,many,"bus, taxi",4.6,october to march,yes,"fort exploration, history, architecture",moderate,2
+himachal pradesh,Tabo Monastery,heritage,some,"bus, taxi",4.5,may to october,yes,"monastery visit, photography, culture",moderate,2
+kerala,Padmanabhapuram Palace,heritage,some,"bus, taxi",4.4,october to march,yes,"palace tour, architecture, history",moderate,1
+tamil nadu,Mamallapuram,heritage,many,"bus, taxi",4.7,october to march,yes,"rock temples, beach, architecture",moderate,2
+uttar pradesh,Fatehpur Sikri,heritage,many,"bus, taxi",4.6,october to march,yes,"palace complex, architecture, history",moderate,2
+gujarat,Rani ki Vav,heritage,some,"bus, taxi",4.5,october to march,yes,"stepwell, architecture, photography",moderate,1
+west bengal,Victoria Memorial,heritage,many,"bus, taxi",4.4,october to march,yes,"museum, gardens, architecture",moderate,1
+maharashtra,Mahabaleshwar,hill station,many,"bus, taxi",4.6,october to june,yes,"strawberry farms, viewpoints, boating",moderate,3
+karnataka,Kudremukh,hill station,some,"bus, taxi",4.5,october to february,yes,"trekking, wildlife, photography",moderate,3
+goa,Netravali Wildlife Sanctuary,wildlife,some,"bus, taxi",4.4,october to march,yes,"wildlife safari, trekking, bird watching",moderate,2
+rajasthan,Sariska Tiger Reserve,wildlife,many,"bus, taxi",4.6,october to june,yes,"tiger safari, wildlife safari, bird watching",moderate,3
+himachal pradesh,Pin Valley National Park,wildlife,some,"bus, taxi",4.7,may to october,yes,"wildlife safari, trekking, photography",moderate,4
+kerala,Eravikulam National Park,wildlife,some,"bus, taxi",4.5,september to may,yes,"wildlife safari, trekking, photography",moderate,2
+tamil nadu,Mudumalai National Park,wildlife,many,"bus, taxi",4.6,october to june,yes,"wildlife safari, elephant safari, bird watching",moderate,3
+uttar pradesh,Kaimur Wildlife Sanctuary,wildlife,some,"bus, taxi",4.3,october to march,yes,"wildlife safari, bird watching, nature walk",moderate,2
+gujarat,Blackbuck National Park,wildlife,some,"bus, taxi",4.5,october to march,yes,"wildlife safari, bird watching, photography",moderate,2
+west bengal,Buxa Tiger Reserve,wildlife,some,"bus, taxi",4.4,october to march,yes,"tiger safari, wildlife safari, bird watching",moderate,3
+maharashtra,Tadoba Andhari Tiger Reserve,wildlife,many,"bus, taxi",4.7,october to june,yes,"tiger safari, wildlife safari, bird watching",moderate,3
+karnataka,Nagarhole National Park,wildlife,many,"bus, taxi",4.6,october to may,yes,"wildlife safari, elephant safari, bird watching",moderate,3
+goa,Bhagwan Mahavir Wildlife Sanctuary,wildlife,some,"bus, taxi",4.4,october to march,yes,"wildlife safari, trekking, bird watching",moderate,2
+rajasthan,Ranthambore National Park,wildlife,many,"bus, taxi",4.8,october to june,yes,"tiger safari, wildlife safari, bird watching",moderate,3
+himachal pradesh,Kibber Wildlife Sanctuary,wildlife,some,"bus, taxi",4.5,may to october,yes,"wildlife safari, trekking, photography",moderate,3
+kerala,Periyar Tiger Reserve,wildlife,many,"bus, taxi",4.7,october to june,yes,"tiger safari, boat safari, bird watching",moderate,3
+tamil nadu,Anamalai Tiger Reserve,wildlife,many,"bus, taxi",4.6,october to may,yes,"wildlife safari, trekking, bird watching",moderate,3
+uttar pradesh,Pilibhit Tiger Reserve,wildlife,some,"bus, taxi",4.5,november to june,yes,"tiger safari, wildlife safari, bird watching",moderate,3
+gujarat,Vansda National Park,wildlife,some,"bus, taxi",4.4,october to march,yes,"wildlife safari, bird watching, nature walk",moderate,2
+west bengal,Jaldapara National Park,wildlife,many,"bus, taxi",4.6,october to march,yes,"rhino safari, wildlife safari, bird watching",moderate,3

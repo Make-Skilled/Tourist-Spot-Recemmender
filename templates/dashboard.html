@@ -1,20 +1,20 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="container mt-4">
-    <h1>Welcome, {{ username }}!</h1>
+<div class="max-w-7xl mx-auto">
+    <h1 class="text-3xl font-bold text-gray-800 mb-8">Welcome, {{ username }}!</h1>
     
     <!-- Recommendation Form -->
-    <div class="card mb-4">
-        <div class="card-header">
-            <h2 class="h4 mb-0">Get Recommendations</h2>
+    <div class="bg-white rounded-lg shadow-lg overflow-hidden mb-8">
+        <div class="bg-gradient-to-r from-blue-600 to-blue-800 px-6 py-4">
+            <h2 class="text-xl font-semibold text-white">Get Recommendations</h2>
         </div>
-        <div class="card-body">
-            <form method="POST" action="{{ url_for('dashboard') }}">
-                <div class="row">
-                    <div class="col-md-6 mb-3">
-                        <label for="category" class="form-label">Preferred Category</label>
-                        <select class="form-select" id="category" name="category">
+        <div class="p-6">
+            <form method="POST" action="{{ url_for('dashboard') }}" class="space-y-6">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div>
+                        <label for="category" class="block text-sm font-medium text-gray-700 mb-2">Preferred Category</label>
+                        <select class="w-full rounded-lg border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500" id="category" name="category">
                             <option value="">Select Category</option>
                             <option value="Historical">Historical</option>
                             <option value="Beach">Beach</option>
@@ -25,65 +25,91 @@
                             <option value="City">City</option>
                         </select>
                     </div>
-                    <div class="col-md-6 mb-3">
-                        <label for="location" class="form-label">Location (State)</label>
-                        <input type="text" class="form-control" id="location" name="location" placeholder="Enter state name">
+                    <div>
+                        <label for="location" class="block text-sm font-medium text-gray-700 mb-2">Location (State)</label>
+                        <input type="text" class="w-full rounded-lg border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500" id="location" name="location" placeholder="Enter state name">
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-4 mb-3">
-                        <label for="min_rating" class="form-label">Minimum Rating</label>
-                        <input type="number" class="form-control" id="min_rating" name="min_rating" min="0" max="5" step="0.1" value="4.0">
+                
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <div>
+                        <label for="min_rating" class="block text-sm font-medium text-gray-700 mb-2">Minimum Rating</label>
+                        <input type="number" class="w-full rounded-lg border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500" id="min_rating" name="min_rating" min="0" max="5" step="0.1" value="4.0">
                     </div>
-                    <div class="col-md-4 mb-3">
-                        <label for="num_recommendations" class="form-label">Number of Recommendations</label>
-                        <input type="number" class="form-control" id="num_recommendations" name="num_recommendations" min="1" max="10" value="5">
+                    <div>
+                        <label for="num_recommendations" class="block text-sm font-medium text-gray-700 mb-2">Number of Recommendations</label>
+                        <input type="number" class="w-full rounded-lg border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500" id="num_recommendations" name="num_recommendations" min="1" max="10" value="5">
                     </div>
-                    <div class="col-md-4 mb-3">
-                        <label for="preferences" class="form-label">Additional Preferences</label>
-                        <input type="text" class="form-control" id="preferences" name="preferences" placeholder="e.g., family-friendly, budget">
+                    <div>
+                        <label for="preferences" class="block text-sm font-medium text-gray-700 mb-2">Additional Preferences</label>
+                        <input type="text" class="w-full rounded-lg border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500" id="preferences" name="preferences" placeholder="e.g., family-friendly, budget">
                     </div>
                 </div>
-                <button type="submit" class="btn btn-primary">Get Recommendations</button>
+                
+                <div class="flex justify-end">
+                    <button type="submit" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-6 rounded-lg transition duration-200">
+                        Get Recommendations
+                    </button>
+                </div>
             </form>
         </div>
     </div>
 
     <!-- Error Message -->
     {% if error_message %}
-    <div class="alert alert-danger" role="alert">
+    <div class="bg-red-100 border-l-4 border-red-500 text-red-700 p-4 mb-6" role="alert">
         {{ error_message }}
     </div>
     {% endif %}
 
     <!-- Recommendations -->
     {% if recommendations %}
-    <div class="row">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {% for spot in recommendations %}
-        <div class="col-md-6 mb-4">
-            <div class="card h-100">
-                <div class="card-body">
-                    <h3 class="card-title">{{ spot.Place }}, {{ spot.State }}</h3>
-                    <h4 class="card-subtitle mb-2 text-muted">{{ spot.Category }}</h4>
-                    <div class="mb-3">
-                        <span class="badge bg-primary">Rating: {{ spot.Rating }}/5</span>
-                        <span class="badge bg-info">Best Time: {{ spot['Best Time to Visit'] }}</span>
-                        <span class="badge bg-success">Budget: {{ spot['Budget Level'] }}</span>
-                    </div>
-                    <p class="card-text">
-                        <strong>Activities:</strong> {{ spot.Activities }}<br>
-                        <strong>Trip Duration:</strong> {{ spot['Trip Duration (days)'] }} days<br>
-                        <strong>Hotels Nearby:</strong> {{ spot['Hotels Nearby'] }}<br>
-                        <strong>Travel Vehicles:</strong> {{ spot['Travel Vehicles Available'] }}<br>
-                        <strong>Family Friendly:</strong> {{ spot['Family Friendly'] }}
-                    </p>
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden card-hover transition duration-200">
+            <div class="p-6">
+                <h3 class="text-xl font-semibold text-gray-800 mb-2">{{ spot.Place }}, {{ spot.State }}</h3>
+                <h4 class="text-lg text-blue-600 mb-4">{{ spot.Category }}</h4>
+                
+                <div class="flex flex-wrap gap-2 mb-4">
+                    <span class="bg-blue-100 text-blue-800 text-sm font-medium px-3 py-1 rounded-full">
+                        Rating: {{ "%.1f"|format(spot.Rating) }}/5
+                    </span>
+                    {% if spot['Best Time to Visit'] %}
+                    <span class="bg-green-100 text-green-800 text-sm font-medium px-3 py-1 rounded-full">
+                        Best Time: {{ spot['Best Time to Visit'] }}
+                    </span>
+                    {% endif %}
+                    {% if spot['Budget Level'] %}
+                    <span class="bg-purple-100 text-purple-800 text-sm font-medium px-3 py-1 rounded-full">
+                        Budget: {{ spot['Budget Level'] }}
+                    </span>
+                    {% endif %}
+                </div>
+                
+                <div class="space-y-2 text-gray-600">
+                    {% if spot.Activities %}
+                    <p><span class="font-medium">Activities:</span> {{ spot.Activities }}</p>
+                    {% endif %}
+                    {% if spot['Trip Duration (days)'] %}
+                    <p><span class="font-medium">Trip Duration:</span> {{ "%.1f"|format(spot['Trip Duration (days)']) }} days</p>
+                    {% endif %}
+                    {% if spot['Hotels Nearby'] %}
+                    <p><span class="font-medium">Hotels Nearby:</span> {{ spot['Hotels Nearby'] }}</p>
+                    {% endif %}
+                    {% if spot['Travel Vehicles Available'] %}
+                    <p><span class="font-medium">Travel Vehicles:</span> {{ spot['Travel Vehicles Available'] }}</p>
+                    {% endif %}
+                    {% if spot['Family Friendly'] %}
+                    <p><span class="font-medium">Family Friendly:</span> {{ spot['Family Friendly'] }}</p>
+                    {% endif %}
                 </div>
             </div>
         </div>
         {% endfor %}
     </div>
     {% elif request.method == 'POST' %}
-    <div class="alert alert-info" role="alert">
+    <div class="bg-blue-100 border-l-4 border-blue-500 text-blue-700 p-4 rounded-lg">
         No recommendations found matching your criteria. Please try different search parameters.
     </div>
     {% endif %}

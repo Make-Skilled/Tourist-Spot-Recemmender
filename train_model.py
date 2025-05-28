@@ -14,8 +14,8 @@ logger = logging.getLogger(__name__)
 def load_and_preprocess_data():
     """Load and preprocess the tourist spots data."""
     try:
-        # Read the CSV file
-        df = pd.read_csv('tourist_spots.csv')
+        # Read the CSV file with proper quoting
+        df = pd.read_csv('tourist_spots.csv', quoting=1)  # QUOTE_ALL mode
         
         # Ensure all required columns are present
         required_columns = ['State', 'Place', 'Category', 'Hotels Nearby', 
@@ -44,6 +44,9 @@ def load_and_preprocess_data():
         # Convert all string columns to lowercase
         for col in categorical_columns:
             df[col] = df[col].str.lower()
+        
+        # Save the processed data
+        df.to_csv('models/processed_data.csv', index=False, quoting=1)
         
         return df
         
